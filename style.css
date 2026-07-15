@@ -1,0 +1,26 @@
+/*
+Theme Name: Meet Na Manh Top
+Theme URI: https://github.com/long-pv/meetnamanh_top
+Author: Antigravity
+Author URI: https://deepmind.google
+Description: A premium portfolio WordPress theme converted from a Framer design, powered by ACF and custom page templates.
+Version: 1.0.0
+Text Domain: meetnamanh-top
+*/
+
+/* Basic Reset & Gutenberg alignments */
+.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.alignleft {
+    float: left;
+    margin-right: 1.5em;
+    margin-bottom: 1.5em;
+}
+.alignright {
+    float: right;
+    margin-left: 1.5em;
+    margin-bottom: 1.5em;
+}
