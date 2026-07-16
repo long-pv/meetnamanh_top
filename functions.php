@@ -27,6 +27,9 @@ function meetnamanh_scripts_styles() {
 }
 add_action( 'wp_enqueue_scripts', 'meetnamanh_scripts_styles' );
 
+// Hide default WordPress editor for the homepage template.
+
+
 // 3. Register Flat ACF Fields (Static fields mapping 1-to-1)
 if ( function_exists('acf_add_local_field_group') ) {
     acf_add_local_field_group(array(
@@ -34,10 +37,10 @@ if ( function_exists('acf_add_local_field_group') ) {
         'title' => 'Homepage Options (Flat Mode)',
         'fields' => array(
             
-            // Tab 1: Hero & Background
+            // Tab 1: Intro
             array(
-                'key' => 'field_tab_hero',
-                'label' => 'Hero & Background',
+                'key' => 'field_tab_intro',
+                'label' => 'Intro',
                 'type' => 'tab',
             ),
             array(
@@ -61,13 +64,56 @@ if ( function_exists('acf_add_local_field_group') ) {
                 'type' => 'text',
                 'instructions' => 'Paste URL or path to background video file',
             ),
-            
-            // Tab 2: Work 1 (Edlyft)
             array(
-                'key' => 'field_tab_work_1',
-                'label' => 'Featured Work 1',
+                'key' => 'field_intro_card_text',
+                'label' => 'Intro Card Text',
+                'name' => 'intro_card_text',
+                'type' => 'textarea',
+                'default_value' => 'I convert business visions and customer needs into enjoyable experiences. Welcome to a day in my life.',
+            ),
+            array(
+                'key' => 'field_contact_email',
+                'label' => 'Hire Me / Contact Email',
+                'name' => 'contact_email',
+                'type' => 'text',
+                'default_value' => 'chimdi@dducdesign.com',
+            ),
+            array(
+                'key' => 'field_contact_link_url',
+                'label' => 'Contact / Book a Call Link URL',
+                'name' => 'contact_link_url',
+                'type' => 'url',
+                'default_value' => 'https://calendly.com/chimdi-dducdesign/30min',
+            ),
+            array(
+                'key' => 'field_contact_link_label',
+                'label' => 'Contact Link Label',
+                'name' => 'contact_link_label',
+                'type' => 'text',
+                'default_value' => 'Book a call',
+            ),
+            array(
+                'key' => 'field_intro_routine_text',
+                'label' => 'Intro Routine Text',
+                'name' => 'intro_routine_text',
+                'type' => 'textarea',
+                'default_value' => 'I like to start my day with my morning routine and some study or learning',
+            ),
+            array(
+                'key' => 'field_intro_breakfast_text',
+                'label' => 'Intro Breakfast Text',
+                'name' => 'intro_breakfast_text',
+                'type' => 'textarea',
+                'default_value' => "Then I have my breakfast which (unapologetically) is usually bread with eggs - the only recipe I've mastered besides cereal.",
+            ),
+            
+            // Tab 2: Work
+            array(
+                'key' => 'field_tab_work',
+                'label' => 'Work',
                 'type' => 'tab',
             ),
+            // Work 1
             array(
                 'key' => 'field_work_1_title',
                 'label' => 'Work 1 Title',
@@ -123,13 +169,7 @@ if ( function_exists('acf_add_local_field_group') ) {
                 'name' => 'work_1_link',
                 'type' => 'url',
             ),
-
-            // Tab 3: Work 2 (CakeDefi)
-            array(
-                'key' => 'field_tab_work_2',
-                'label' => 'Featured Work 2',
-                'type' => 'tab',
-            ),
+            // Work 2
             array(
                 'key' => 'field_work_2_title',
                 'label' => 'Work 2 Title',
@@ -185,13 +225,7 @@ if ( function_exists('acf_add_local_field_group') ) {
                 'name' => 'work_2_link',
                 'type' => 'url',
             ),
-
-            // Tab 4: Work 3 (AR Initiative)
-            array(
-                'key' => 'field_tab_work_3',
-                'label' => 'Featured Work 3',
-                'type' => 'tab',
-            ),
+            // Work 3
             array(
                 'key' => 'field_work_3_title',
                 'label' => 'Work 3 Title',
@@ -248,10 +282,10 @@ if ( function_exists('acf_add_local_field_group') ) {
                 'type' => 'url',
             ),
 
-            // Tab 5: Figma mockups
+            // Tab 3: Projects
             array(
-                'key' => 'field_tab_figma',
-                'label' => 'Figma Freebies',
+                'key' => 'field_tab_projects',
+                'label' => 'Projects',
                 'type' => 'tab',
             ),
             // Figma 1
@@ -338,11 +372,334 @@ if ( function_exists('acf_add_local_field_group') ) {
                 'name' => 'figma_3_link',
                 'type' => 'url',
             ),
+            // Figma 4
+            array(
+                'key' => 'field_figma_4_title',
+                'label' => 'Figma 4 Title',
+                'name' => 'figma_4_title',
+                'type' => 'text',
+                'default_value' => 'Galaxy S22 Mockup',
+            ),
+            array(
+                'key' => 'field_figma_4_tag',
+                'label' => 'Figma 4 Badge / Users',
+                'name' => 'figma_4_tag',
+                'type' => 'text',
+                'default_value' => '3.3k users',
+            ),
+            array(
+                'key' => 'field_figma_4_image',
+                'label' => 'Figma 4 Image',
+                'name' => 'figma_4_image',
+                'type' => 'image',
+                'return_format' => 'url',
+            ),
+            array(
+                'key' => 'field_figma_4_link',
+                'label' => 'Figma 4 Link URL',
+                'name' => 'figma_4_link',
+                'type' => 'url',
+            ),
+            // Figma 5
+            array(
+                'key' => 'field_figma_5_title',
+                'label' => 'Figma 5 Title',
+                'name' => 'figma_5_title',
+                'type' => 'text',
+                'default_value' => 'Trailing cursor prototype',
+            ),
+            array(
+                'key' => 'field_figma_5_tag',
+                'label' => 'Figma 5 Badge / Users',
+                'name' => 'figma_5_tag',
+                'type' => 'text',
+                'default_value' => '1.4k users',
+            ),
+            array(
+                'key' => 'field_figma_5_image',
+                'label' => 'Figma 5 Image',
+                'name' => 'figma_5_image',
+                'type' => 'image',
+                'return_format' => 'url',
+            ),
+            array(
+                'key' => 'field_figma_5_link',
+                'label' => 'Figma 5 Link URL',
+                'name' => 'figma_5_link',
+                'type' => 'url',
+            ),
+            // Figma Note Card
+            array(
+                'key' => 'field_figma_note_title',
+                'label' => 'Figma Note Title',
+                'name' => 'figma_note_title',
+                'type' => 'text',
+                'default_value' => 'Figma Community Assets',
+            ),
+            array(
+                'key' => 'field_figma_note_desc',
+                'label' => 'Figma Note Description',
+                'name' => 'figma_note_desc',
+                'type' => 'textarea',
+                'default_value' => 'My figma community files have helped over 24k people cumulatively.',
+            ),
+            array(
+                'key' => 'field_figma_note_link_label',
+                'label' => 'Figma Note Link Label',
+                'name' => 'figma_note_link_label',
+                'type' => 'text',
+                'default_value' => 'Community profile',
+            ),
+            array(
+                'key' => 'field_figma_note_link_url',
+                'label' => 'Figma Note Link URL',
+                'name' => 'figma_note_link_url',
+                'type' => 'url',
+                'default_value' => 'https://www.figma.com/@dducdesign',
+            ),
 
-            // Tab 6: Fun Section
+            // YouTube Videos
+            array(
+                'key' => 'field_yt_1_image',
+                'label' => 'YouTube 1 Cover Image',
+                'name' => 'yt_1_image',
+                'type' => 'image',
+                'return_format' => 'url',
+            ),
+            array(
+                'key' => 'field_yt_1_video_id',
+                'label' => 'YouTube 1 Video ID (e.g. e3h-IkgRYQg)',
+                'name' => 'yt_1_video_id',
+                'type' => 'text',
+                'default_value' => 'e3h-IkgRYQg',
+            ),
+            array(
+                'key' => 'field_yt_2_image',
+                'label' => 'YouTube 2 Cover Image',
+                'name' => 'yt_2_image',
+                'type' => 'image',
+                'return_format' => 'url',
+            ),
+            array(
+                'key' => 'field_yt_2_video_id',
+                'label' => 'YouTube 2 Video ID',
+                'name' => 'yt_2_video_id',
+                'type' => 'text',
+                'default_value' => 'wFZ6W-63lrQ',
+            ),
+            array(
+                'key' => 'field_yt_3_image',
+                'label' => 'YouTube 3 Cover Image',
+                'name' => 'yt_3_image',
+                'type' => 'image',
+                'return_format' => 'url',
+            ),
+            array(
+                'key' => 'field_yt_3_video_id',
+                'label' => 'YouTube 3 Video ID',
+                'name' => 'yt_3_video_id',
+                'type' => 'text',
+                'default_value' => '_G2fVlp3FzU',
+            ),
+            array(
+                'key' => 'field_yt_4_image',
+                'label' => 'YouTube 4 Cover Image',
+                'name' => 'yt_4_image',
+                'type' => 'image',
+                'return_format' => 'url',
+            ),
+            array(
+                'key' => 'field_yt_4_video_id',
+                'label' => 'YouTube 4 Video ID',
+                'name' => 'yt_4_video_id',
+                'type' => 'text',
+                'default_value' => 'PqYNq9ZX-Zo',
+            ),
+
+            // 3D Work
+            array(
+                'key' => 'field_td_1_image',
+                'label' => '3D Image 1',
+                'name' => 'td_1_image',
+                'type' => 'image',
+                'return_format' => 'url',
+            ),
+            array(
+                'key' => 'field_td_2_image',
+                'label' => '3D Image 2',
+                'name' => 'td_2_image',
+                'type' => 'image',
+                'return_format' => 'url',
+            ),
+            array(
+                'key' => 'field_td_3_image',
+                'label' => '3D Image 3',
+                'name' => 'td_3_image',
+                'type' => 'image',
+                'return_format' => 'url',
+            ),
+            array(
+                'key' => 'field_td_4_image',
+                'label' => '3D Image 4',
+                'name' => 'td_4_image',
+                'type' => 'image',
+                'return_format' => 'url',
+            ),
+            array(
+                'key' => 'field_td_note_title',
+                'label' => '3D Note Title',
+                'name' => 'td_note_title',
+                'type' => 'text',
+                'default_value' => '3D Assets',
+            ),
+            array(
+                'key' => 'field_td_note_desc',
+                'label' => '3D Note Description',
+                'name' => 'td_note_desc',
+                'type' => 'textarea',
+                'default_value' => 'I like to experiment with Spline and Blender to craft unique, interactive 3D assets',
+            ),
+            array(
+                'key' => 'field_td_note_link_label',
+                'label' => '3D Note Link Label',
+                'name' => 'td_note_link_label',
+                'type' => 'text',
+                'default_value' => '3D Work',
+            ),
+            array(
+                'key' => 'field_td_note_link_url',
+                'label' => '3D Note Link URL',
+                'name' => 'td_note_link_url',
+                'type' => 'url',
+            ),
+
+            // Kompare
+            array(
+                'key' => 'field_kompare_image',
+                'label' => 'Kompare Mockup Image',
+                'name' => 'kompare_image',
+                'type' => 'image',
+                'return_format' => 'url',
+            ),
+            array(
+                'key' => 'field_kompare_note_title',
+                'label' => 'Kompare Note Title',
+                'name' => 'kompare_note_title',
+                'type' => 'text',
+                'default_value' => 'Kompare',
+            ),
+            array(
+                'key' => 'field_kompare_note_desc',
+                'label' => 'Kompare Note Description',
+                'name' => 'kompare_note_desc',
+                'type' => 'textarea',
+                'default_value' => 'I got tired of converting currencies, so I built a Chrome Extension with a friend, to solve this.',
+            ),
+            array(
+                'key' => 'field_kompare_note_link_label',
+                'label' => 'Kompare Note Link Label',
+                'name' => 'kompare_note_link_label',
+                'type' => 'text',
+                'default_value' => 'Kompare on Chrome Store',
+            ),
+            array(
+                'key' => 'field_kompare_note_link_url',
+                'label' => 'Kompare Note Link URL',
+                'name' => 'kompare_note_link_url',
+                'type' => 'url',
+                'default_value' => 'https://chromewebstore.google.com/detail/kompare/pghheioicappnlibejncaolgjicphhmi?hl=en-GB&utm_source=ext_sidebar',
+            ),
+
+            // Archive
+            array(
+                'key' => 'field_archive_note_title',
+                'label' => 'Archive Note Title',
+                'name' => 'archive_note_title',
+                'type' => 'text',
+                'default_value' => 'Archive',
+            ),
+            array(
+                'key' => 'field_archive_note_desc',
+                'label' => 'Archive Note Description',
+                'name' => 'archive_note_desc',
+                'type' => 'textarea',
+                'default_value' => 'These are some of my work from way back, and a bit of history as well.',
+            ),
+            array(
+                'key' => 'field_archive_img1',
+                'label' => 'Archive Image 1',
+                'name' => 'archive_img1',
+                'type' => 'image',
+                'return_format' => 'url',
+            ),
+            array(
+                'key' => 'field_archive_cap1',
+                'label' => 'Archive Caption 1',
+                'name' => 'archive_cap1',
+                'type' => 'text',
+                'default_value' => 'One of my earliest design projects from 2011.',
+            ),
+            array(
+                'key' => 'field_archive_img2',
+                'label' => 'Archive Image 2',
+                'name' => 'archive_img2',
+                'type' => 'image',
+                'return_format' => 'url',
+            ),
+            array(
+                'key' => 'field_archive_cap2',
+                'label' => 'Archive Caption 2',
+                'name' => 'archive_cap2',
+                'type' => 'text',
+                'default_value' => 'Me at my first design job in 2011.',
+            ),
+            array(
+                'key' => 'field_archive_img3',
+                'label' => 'Archive Image 3',
+                'name' => 'archive_img3',
+                'type' => 'image',
+                'return_format' => 'url',
+            ),
+            array(
+                'key' => 'field_archive_cap3',
+                'label' => 'Archive Caption 3',
+                'name' => 'archive_cap3',
+                'type' => 'text',
+                'default_value' => 'Fine Baby song art, 2012.',
+            ),
+            array(
+                'key' => 'field_archive_img4',
+                'label' => 'Archive Image 4',
+                'name' => 'archive_img4',
+                'type' => 'image',
+                'return_format' => 'url',
+            ),
+            array(
+                'key' => 'field_archive_cap4',
+                'label' => 'Archive Caption 4',
+                'name' => 'archive_cap4',
+                'type' => 'text',
+                'default_value' => 'Jasmine Magazine, 2017',
+            ),
+            array(
+                'key' => 'field_archive_img5',
+                'label' => 'Archive Image 5',
+                'name' => 'archive_img5',
+                'type' => 'image',
+                'return_format' => 'url',
+            ),
+            array(
+                'key' => 'field_archive_cap5',
+                'label' => 'Archive Caption 5',
+                'name' => 'archive_cap5',
+                'type' => 'text',
+                'default_value' => 'My first low fidelity sketch, done at a UX intro class by Google, 2016',
+            ),
+
+            // Tab 4: Fun
             array(
                 'key' => 'field_tab_fun',
-                'label' => 'Fun Section',
+                'label' => 'Fun',
                 'type' => 'tab',
             ),
             array(
@@ -366,20 +723,108 @@ if ( function_exists('acf_add_local_field_group') ) {
                 'type' => 'image',
                 'return_format' => 'url',
             ),
-
-            // Tab 7: Contact & Footer
             array(
-                'key' => 'field_tab_contact',
-                'label' => 'Contact & Footer',
-                'type' => 'tab',
-            ),
-            array(
-                'key' => 'field_contact_email',
-                'label' => 'Hire Me / Contact Email',
-                'name' => 'contact_email',
+                'key' => 'field_writings_title',
+                'label' => 'Writings Section Title',
+                'name' => 'writings_title',
                 'type' => 'text',
-                'default_value' => 'design@chimdi.co',
+                'default_value' => 'Stuff I’ve written',
             ),
+            array(
+                'key' => 'field_writings_count',
+                'label' => 'Number of Posts to Display',
+                'name' => 'writings_count',
+                'type' => 'number',
+                'default_value' => 3,
+                'min' => 1,
+                'max' => 10,
+            ),
+            array(
+                'key' => 'field_thanks_text',
+                'label' => 'Thanks Message text',
+                'name' => 'thanks_text',
+                'type' => 'textarea',
+                'default_value' => 'Thanks for hanging with me today. I love meeting people and working on cool projects, so reach out! 👇',
+            ),
+            array(
+                'key' => 'field_book_call_title',
+                'label' => 'Book Call Title',
+                'name' => 'book_call_title',
+                'type' => 'text',
+                'default_value' => 'Book call',
+            ),
+            array(
+                'key' => 'field_book_call_sub',
+                'label' => 'Book Call Subtitle',
+                'name' => 'book_call_sub',
+                'type' => 'text',
+                'default_value' => 'Via Calendly',
+            ),
+            array(
+                'key' => 'field_book_call_url',
+                'label' => 'Book Call URL',
+                'name' => 'book_call_url',
+                'type' => 'text',
+                'default_value' => 'https://calendly.com/chimdi-dducdesign/30min',
+            ),
+            array(
+                'key' => 'field_copy_email_title',
+                'label' => 'Copy Email Title',
+                'name' => 'copy_email_title',
+                'type' => 'text',
+                'default_value' => 'Copy email',
+            ),
+            array(
+                'key' => 'field_copy_email_address',
+                'label' => 'Copy Email Address',
+                'name' => 'copy_email_address',
+                'type' => 'text',
+                'default_value' => 'chimdi@dducdesign.com',
+            ),
+            array(
+                'key' => 'field_social_youtube',
+                'label' => 'YouTube Link',
+                'name' => 'social_youtube',
+                'type' => 'text',
+                'default_value' => 'https://www.youtube.com/@chimdiBAM',
+            ),
+            array(
+                'key' => 'field_social_linkedin',
+                'label' => 'LinkedIn Link',
+                'name' => 'social_linkedin',
+                'type' => 'text',
+                'default_value' => 'https://www.linkedin.com/in/chimdindu-chimereze-20670468/',
+            ),
+            array(
+                'key' => 'field_social_twitter',
+                'label' => 'Twitter (X) Link',
+                'name' => 'social_twitter',
+                'type' => 'text',
+                'default_value' => 'https://x.com/ChimdiBAM',
+            ),
+            array(
+                'key' => 'field_social_instagram',
+                'label' => 'Instagram Link',
+                'name' => 'social_instagram',
+                'type' => 'text',
+                'default_value' => 'https://www.instagram.com/chimdibam/',
+            ),
+            array(
+                'key' => 'field_social_tiktok',
+                'label' => 'TikTok Link',
+                'name' => 'social_tiktok',
+                'type' => 'text',
+                'default_value' => 'https://www.tiktok.com/@chimdibam?_t=ZM-8t1caHT83Qz&_r=1',
+            ),
+            array(
+                'key' => 'field_copyright_text',
+                'label' => 'Copyright Footer Text',
+                'name' => 'copyright_text',
+                'type' => 'textarea',
+                'default_value' => '© Chimdindu Chimereze, 2025 ✦ Designed and built by DDUC Design Studio ✦ With love from 🇳🇬 ✦ Video credit - Mark Yacoub on Youtube ✦',
+            ),
+
+
         ),
         'location' => array(
             array(
@@ -390,5 +835,28 @@ if ( function_exists('acf_add_local_field_group') ) {
                 ),
             ),
         ),
+        'hide_on_screen' => array(
+            'the_content',
+        ),
     ));
+}
+
+/**
+ * Helper function to render a work item cover image with support for ACF dynamic URL
+ * and fallback to local template-html srcset responsive images.
+ */
+function get_work_image_html($field_name, $default_image_name, $srcset_images_data, $sizes_original = '600px', $sizes_attr = '') {
+    $img_url = get_field($field_name);
+    if ($img_url) {
+        return '<img decoding="async" src="' . esc_url($img_url) . '" alt="" style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover" data-framer-original-sizes="' . esc_attr($sizes_original) . '">';
+    } else {
+        $theme_uri = get_template_directory_uri();
+        $srcset = array();
+        foreach ($srcset_images_data as $size => $img) {
+            $srcset[] = $theme_uri . '/template-html/images/' . $img . ' ' . $size;
+        }
+        $srcset_str = implode(', ', $srcset);
+        $src = $theme_uri . '/template-html/images/' . $default_image_name;
+        return '<img decoding="async" ' . ($sizes_attr ? 'sizes="' . esc_attr($sizes_attr) . '"' : '') . ' srcset="' . esc_attr($srcset_str) . '" src="' . esc_url($src) . '" alt="" style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover" data-framer-original-sizes="' . esc_attr($sizes_original) . '">';
+    }
 }

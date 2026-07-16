@@ -92,7 +92,10 @@
   </div>
 
   <!-- Framer module preload and script load (disabled on writings/single post pages to prevent React overwriting content) -->
-  <?php if ( ! is_page_template('templates/template-writings.php') && ! is_page('writings') && ! is_singular('post') ) : ?>
+  <?php 
+  $is_writings = is_page('writings') || is_page_template('templates/template-writings.php') || (isset($_SERVER['REQUEST_URI']) && strpos($_SERVER['REQUEST_URI'], '/writings') !== false);
+  if ( ! $is_writings && ! is_singular('post') ) : 
+  ?>
   <link rel="modulepreload" fetchpriority="low" href="https://framerusercontent.com/sites/4UmRyxF27oORnIJjQN6Nje/chunk-A2KM466Z.mjs">
   <link rel="modulepreload" fetchpriority="low" href="https://framerusercontent.com/sites/4UmRyxF27oORnIJjQN6Nje/chunk-CQBBKOAU.mjs">
   <link rel="modulepreload" fetchpriority="low" href="https://framerusercontent.com/sites/4UmRyxF27oORnIJjQN6Nje/chunk-S2C2RNBU.mjs">

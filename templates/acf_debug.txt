@@ -1,0 +1,7 @@
+Array
+(
+    [contact_email] => design@chimdi.co
+    [contact_link_url] => 
+    [contact_link_label] => 
+    [intro_card_text] => 
+)

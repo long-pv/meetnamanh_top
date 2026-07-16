@@ -651,65 +651,53 @@ get_header();
           <div class="framer-1naxlb9" data-framer-name="Nav-btns-wrap">
             <div class="framer-1hzxm60-container"><!--$--><a
                 class="framer-kwS3A framer-14zuvm6 framer-v-14zuvm6 framer-qi970i" data-framer-name="Default"
-                data-highlight="true" style="width:100%" href="./#hero-control" tabindex="0">
+                data-highlight="true" style="width:100%" href="<?php echo esc_url(home_url('/#hero-control')); ?>" tabindex="0">
                 <div class="framer-18dygrr">
                   <div class="framer-1389buv" data-framer-name="Underline"
                     style="background-color:rgb(255, 255, 255);opacity:0"></div>
                   <div class="framer-t1cu6"
                     style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(255, 255, 255);--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.64;transform:none"
                     data-framer-component-type="RichTextContainer">
-                    <p style="--font-selector:Q1VTVE9NO1RlY2hub2xvZ3kgSXRhbGlj;--framer-font-family:" technology=""
-                      italic",="" "technology="" italic="" placeholder" ,=""
-                      sans-serif;--framer-font-size:20px;--framer-line-height:1em;--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv,=""
-                      rgb(255,="" 255,="" 255))"="" class="framer-text">Intro</p>
+                    <p style="--font-selector:Q1VTVE9NO1RlY2hub2xvZ3kgSXRhbGlj;--framer-font-family:&quot;technology italic&quot;,=&quot;&quot; &quot;technology italic placeholder&quot;=,=&quot;&quot; sans-serif;--framer-font-size:20px;--framer-line-height:1em;--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, rgb(255, 255, 255))" class="framer-text">Intro</p>
                   </div>
                 </div>
               </a><!--/$--></div>
             <div class="framer-48kyqd-container"><!--$--><a
                 class="framer-kwS3A framer-14zuvm6 framer-v-14zuvm6 framer-qi970i" data-framer-name="Default"
-                data-highlight="true" style="width:100%" href="./#work-section" tabindex="0">
+                data-highlight="true" style="width:100%" href="<?php echo esc_url(home_url('/#work-section')); ?>" tabindex="0">
                 <div class="framer-18dygrr">
                   <div class="framer-1389buv" data-framer-name="Underline"
                     style="background-color:rgb(255, 255, 255);opacity:0"></div>
                   <div class="framer-t1cu6"
                     style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(255, 255, 255);--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.64;transform:none"
                     data-framer-component-type="RichTextContainer">
-                    <p style="--font-selector:Q1VTVE9NO1RlY2hub2xvZ3kgSXRhbGlj;--framer-font-family:" technology=""
-                      italic",="" "technology="" italic="" placeholder" ,=""
-                      sans-serif;--framer-font-size:20px;--framer-line-height:1em;--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv,=""
-                      rgb(255,="" 255,="" 255))"="" class="framer-text">Work</p>
+                    <p style="--font-selector:Q1VTVE9NO1RlY2hub2xvZ3kgSXRhbGlj;--framer-font-family:&quot;technology italic&quot;,=&quot;&quot; &quot;technology italic placeholder&quot;=,=&quot;&quot; sans-serif;--framer-font-size:20px;--framer-line-height:1em;--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, rgb(255, 255, 255))" class="framer-text">Work</p>
                   </div>
                 </div>
               </a><!--/$--></div>
             <div class="framer-qak7nv-container"><!--$--><a
                 class="framer-kwS3A framer-14zuvm6 framer-v-14zuvm6 framer-qi970i" data-framer-name="Default"
-                data-highlight="true" style="width:100%" href="./#projects" tabindex="0">
+                data-highlight="true" style="width:100%" href="<?php echo esc_url(home_url('/#projects')); ?>" tabindex="0">
                 <div class="framer-18dygrr">
                   <div class="framer-1389buv" data-framer-name="Underline"
                     style="background-color:rgb(255, 255, 255);opacity:0"></div>
                   <div class="framer-t1cu6"
                     style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(255, 255, 255);--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.64;transform:none"
                     data-framer-component-type="RichTextContainer">
-                    <p style="--font-selector:Q1VTVE9NO1RlY2hub2xvZ3kgSXRhbGlj;--framer-font-family:" technology=""
-                      italic",="" "technology="" italic="" placeholder" ,=""
-                      sans-serif;--framer-font-size:20px;--framer-line-height:1em;--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv,=""
-                      rgb(255,="" 255,="" 255))"="" class="framer-text">Projects</p>
+                    <p style="--font-selector:Q1VTVE9NO1RlY2hub2xvZ3kgSXRhbGlj;--framer-font-family:&quot;technology italic&quot;,=&quot;&quot; &quot;technology italic placeholder&quot;=,=&quot;&quot; sans-serif;--framer-font-size:20px;--framer-line-height:1em;--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, rgb(255, 255, 255))" class="framer-text">Projects</p>
                   </div>
                 </div>
               </a><!--/$--></div>
             <div class="framer-1bkvqi5-container"><!--$--><a
                 class="framer-kwS3A framer-14zuvm6 framer-v-14zuvm6 framer-qi970i" data-framer-name="Default"
-                data-highlight="true" style="width:100%" href="./#fun" tabindex="0">
+                data-highlight="true" style="width:100%" href="<?php echo esc_url(home_url('/#fun')); ?>" tabindex="0">
                 <div class="framer-18dygrr">
                   <div class="framer-1389buv" data-framer-name="Underline"
                     style="background-color:rgb(255, 255, 255);opacity:0"></div>
                   <div class="framer-t1cu6"
                     style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(255, 255, 255);--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.64;transform:none"
                     data-framer-component-type="RichTextContainer">
-                    <p style="--font-selector:Q1VTVE9NO1RlY2hub2xvZ3kgSXRhbGlj;--framer-font-family:" technology=""
-                      italic",="" "technology="" italic="" placeholder" ,=""
-                      sans-serif;--framer-font-size:20px;--framer-line-height:1em;--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv,=""
-                      rgb(255,="" 255,="" 255))"="" class="framer-text">Fun</p>
+                    <p style="--font-selector:Q1VTVE9NO1RlY2hub2xvZ3kgSXRhbGlj;--framer-font-family:&quot;technology italic&quot;,=&quot;&quot; &quot;technology italic placeholder&quot;=,=&quot;&quot; sans-serif;--framer-font-size:20px;--framer-line-height:1em;--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, rgb(255, 255, 255))" class="framer-text">Fun</p>
                   </div>
                 </div>
               </a><!--/$--></div>
@@ -720,17 +708,14 @@ get_header();
             </div>
             <div class="framer-3tygkl-container"><!--$--><a
                 class="framer-kwS3A framer-14zuvm6 framer-v-14zuvm6 framer-qi970i" data-framer-name="Default"
-                data-highlight="true" style="width:100%" href="<?php echo esc_url(home_url('/writings')); ?>"" tabindex="0">
+                data-highlight="true" style="width:100%" href="<?php echo esc_url(home_url('/writings')); ?>" tabindex="0">
                 <div class="framer-18dygrr">
                   <div class="framer-1389buv" data-framer-name="Underline"
-                    style="background-color:rgb(255, 255, 255);opacity:0"></div>
+                    style="background-color:rgb(255, 255, 255);opacity:<?php echo is_page('writings') ? '1' : '0'; ?>"></div>
                   <div class="framer-t1cu6"
-                    style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(255, 255, 255);--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.64;transform:none"
+                    style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(255, 255, 255);--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:<?php echo is_page('writings') ? '1' : '0.64'; ?>;transform:none"
                     data-framer-component-type="RichTextContainer">
-                    <p style="--font-selector:Q1VTVE9NO1RlY2hub2xvZ3kgSXRhbGlj;--framer-font-family:" technology=""
-                      italic",="" "technology="" italic="" placeholder" ,=""
-                      sans-serif;--framer-font-size:20px;--framer-line-height:1em;--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv,=""
-                      rgb(255,="" 255,="" 255))"="" class="framer-text">Writings</p>
+                    <p style="--font-selector:Q1VTVE9NO1RlY2hub2xvZ3kgSXRhbGlj;--framer-font-family:&quot;technology italic&quot;,=&quot;&quot; &quot;technology italic placeholder&quot;=,=&quot;&quot; sans-serif;--framer-font-size:20px;--framer-line-height:1em;--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, rgb(255, 255, 255))" class="framer-text">Writings</p>
                   </div>
                 </div>
               </a><!--/$--></div>
@@ -973,81 +958,66 @@ get_header();
                 <div class="framer-174z2ai" data-framer-name="Nav-btns-wrap">
                   <div class="framer-3k1hk2-container" style="opacity:0;transform:translateX(-50%)"><!--$--><a
                       class="framer-kwS3A framer-14zuvm6 framer-v-151j3fd framer-qi970i" data-framer-name="Mobile"
-                      data-highlight="true" style="width:100%" tabindex="0">
+                      data-highlight="true" style="width:100%" href="<?php echo esc_url(home_url('/#hero-control')); ?>" tabindex="0">
                       <div class="framer-18dygrr">
                         <div class="framer-1389buv" data-framer-name="Underline"
                           style="background-color:rgb(255, 255, 255);opacity:0"></div>
                         <div class="framer-t1cu6"
-                          style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(255, 255, 255);--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:1;transform:none"
+                          style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(255, 255, 255);--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.64;transform:none"
                           data-framer-component-type="RichTextContainer">
-                          <p style="--font-selector:Q1VTVE9NO1RlY2hub2xvZ3kgSXRhbGlj;--framer-font-family:"
-                            technology="" italic",="" "technology="" italic="" placeholder" ,=""
-                            sans-serif;--framer-font-size:32px;--framer-line-height:1em;--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv,=""
-                            rgb(255,="" 255,="" 255))"="" class="framer-text">Intro</p>
+                          <p style="--font-selector:Q1VTVE9NO1RlY2hub2xvZ3kgSXRhbGlj;--framer-font-family:&quot;technology italic&quot;,=&quot;&quot; &quot;technology italic placeholder&quot;=,=&quot;&quot; sans-serif;--framer-font-size:32px;--framer-line-height:1em;--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, rgb(255, 255, 255))" class="framer-text">Intro</p>
                         </div>
                       </div>
                     </a><!--/$--></div>
                   <div class="framer-1jq2bpf-container" style="opacity:0;transform:translateX(-50%)"><!--$--><a
                       class="framer-kwS3A framer-14zuvm6 framer-v-151j3fd framer-qi970i" data-framer-name="Mobile"
-                      data-highlight="true" style="width:100%" tabindex="0">
+                      data-highlight="true" style="width:100%" href="<?php echo esc_url(home_url('/#work-section')); ?>" tabindex="0">
                       <div class="framer-18dygrr">
                         <div class="framer-1389buv" data-framer-name="Underline"
                           style="background-color:rgb(255, 255, 255);opacity:0"></div>
                         <div class="framer-t1cu6"
-                          style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(255, 255, 255);--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:1;transform:none"
+                          style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(255, 255, 255);--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.64;transform:none"
                           data-framer-component-type="RichTextContainer">
-                          <p style="--font-selector:Q1VTVE9NO1RlY2hub2xvZ3kgSXRhbGlj;--framer-font-family:"
-                            technology="" italic",="" "technology="" italic="" placeholder" ,=""
-                            sans-serif;--framer-font-size:32px;--framer-line-height:1em;--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv,=""
-                            rgb(255,="" 255,="" 255))"="" class="framer-text">Work</p>
+                          <p style="--font-selector:Q1VTVE9NO1RlY2hub2xvZ3kgSXRhbGlj;--framer-font-family:&quot;technology italic&quot;,=&quot;&quot; &quot;technology italic placeholder&quot;=,=&quot;&quot; sans-serif;--framer-font-size:32px;--framer-line-height:1em;--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, rgb(255, 255, 255))" class="framer-text">Work</p>
                         </div>
                       </div>
                     </a><!--/$--></div>
                   <div class="framer-18wu4z3-container" style="opacity:0;transform:translateX(-50%)"><!--$--><a
                       class="framer-kwS3A framer-14zuvm6 framer-v-151j3fd framer-qi970i" data-framer-name="Mobile"
-                      data-highlight="true" style="width:100%" tabindex="0">
+                      data-highlight="true" style="width:100%" href="<?php echo esc_url(home_url('/#projects')); ?>" tabindex="0">
                       <div class="framer-18dygrr">
                         <div class="framer-1389buv" data-framer-name="Underline"
                           style="background-color:rgb(255, 255, 255);opacity:0"></div>
                         <div class="framer-t1cu6"
-                          style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(255, 255, 255);--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:1;transform:none"
+                          style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(255, 255, 255);--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.64;transform:none"
                           data-framer-component-type="RichTextContainer">
-                          <p style="--font-selector:Q1VTVE9NO1RlY2hub2xvZ3kgSXRhbGlj;--framer-font-family:"
-                            technology="" italic",="" "technology="" italic="" placeholder" ,=""
-                            sans-serif;--framer-font-size:32px;--framer-line-height:1em;--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv,=""
-                            rgb(255,="" 255,="" 255))"="" class="framer-text">Projects</p>
+                          <p style="--font-selector:Q1VTVE9NO1RlY2hub2xvZ3kgSXRhbGlj;--framer-font-family:&quot;technology italic&quot;,=&quot;&quot; &quot;technology italic placeholder&quot;=,=&quot;&quot; sans-serif;--framer-font-size:32px;--framer-line-height:1em;--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, rgb(255, 255, 255))" class="framer-text">Projects</p>
                         </div>
                       </div>
                     </a><!--/$--></div>
                   <div class="framer-nejdp5-container" style="opacity:0;transform:translateX(-50%)"><!--$--><a
                       class="framer-kwS3A framer-14zuvm6 framer-v-151j3fd framer-qi970i" data-framer-name="Mobile"
-                      data-highlight="true" style="width:100%" tabindex="0">
+                      data-highlight="true" style="width:100%" href="<?php echo esc_url(home_url('/#fun')); ?>" tabindex="0">
                       <div class="framer-18dygrr">
                         <div class="framer-1389buv" data-framer-name="Underline"
                           style="background-color:rgb(255, 255, 255);opacity:0"></div>
                         <div class="framer-t1cu6"
-                          style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(255, 255, 255);--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:1;transform:none"
+                          style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(255, 255, 255);--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.64;transform:none"
                           data-framer-component-type="RichTextContainer">
-                          <p style="--font-selector:Q1VTVE9NO1RlY2hub2xvZ3kgSXRhbGlj;--framer-font-family:"
-                            technology="" italic",="" "technology="" italic="" placeholder" ,=""
-                            sans-serif;--framer-font-size:32px;--framer-line-height:1em;--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv,=""
-                            rgb(255,="" 255,="" 255))"="" class="framer-text">Fun</p>
+                          <p style="--font-selector:Q1VTVE9NO1RlY2hub2xvZ3kgSXRhbGlj;--framer-font-family:&quot;technology italic&quot;,=&quot;&quot; &quot;technology italic placeholder&quot;=,=&quot;&quot; sans-serif;--framer-font-size:32px;--framer-line-height:1em;--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, rgb(255, 255, 255))" class="framer-text">Fun</p>
                         </div>
                       </div>
                     </a><!--/$--></div>
                   <div class="framer-g1g261-container" style="opacity:0;transform:translateX(-50%)"><!--$--><a
                       class="framer-kwS3A framer-14zuvm6 framer-v-151j3fd framer-qi970i" data-framer-name="Mobile"
-                      data-highlight="true" style="width:100%" tabindex="0">
+                      data-highlight="true" style="width:100%" href="<?php echo esc_url(home_url('/writings')); ?>" tabindex="0">
                       <div class="framer-18dygrr">
                         <div class="framer-1389buv" data-framer-name="Underline"
-                          style="background-color:rgb(255, 255, 255);opacity:0"></div>
+                          style="background-color:rgb(255, 255, 255);opacity:<?php echo is_page('writings') ? '1' : '0'; ?>"></div>
                         <div class="framer-t1cu6"
-                          style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(255, 255, 255);--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:1;transform:none"
+                          style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(255, 255, 255);--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:<?php echo is_page('writings') ? '1' : '0.64'; ?>;transform:none"
                           data-framer-component-type="RichTextContainer">
-                          <p style="--font-selector:Q1VTVE9NO1RlY2hub2xvZ3kgSXRhbGlj;--framer-font-family:"
-                            technology="" italic",="" "technology="" italic="" placeholder" ,=""
-                            sans-serif;--framer-font-size:32px;--framer-line-height:1em;--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv,=""
-                            rgb(255,="" 255,="" 255))"="" class="framer-text">Writings</p>
+                          <p style="--font-selector:Q1VTVE9NO1RlY2hub2xvZ3kgSXRhbGlj;--framer-font-family:&quot;technology italic&quot;,=&quot;&quot; &quot;technology italic placeholder&quot;=,=&quot;&quot; sans-serif;--framer-font-size:32px;--framer-line-height:1em;--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, rgb(255, 255, 255))" class="framer-text">Writings</p>
                         </div>
                       </div>
                     </a><!--/$--></div>
@@ -5559,6 +5529,7 @@ get_header();
           </div>
         </div>
       </div>
+      <?php if ( ! is_page('writings') ) : ?>
       <div class="framer-1c32q52" data-framer-name="About" id="about">
         <div class="ssr-variant hidden-1yyu1ju">
           <div class="framer-1qpwrwr" data-framer-name="Ring mask"
@@ -6447,12 +6418,13 @@ get_header();
                         <div class="framer-1d9h69f" data-framer-name="image"
                           style="border-bottom-left-radius:16px;border-bottom-right-radius:16px">
                           <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                            data-framer-background-image-wrapper="true"><img decoding="async"
-                              sizes="(min-width: 1440px) max(600px, 366px), (min-width: 1200px) and (max-width: 1439px) max(600px, 366px), (min-width: 810px) and (max-width: 1199px) max(600px, 366px), (max-width: 809px) max(600px, 366px)"
-                              srcset="<?php echo get_template_directory_uri(); ?>/template-html/images/5ipECPNYlEgf.png 512w, <?php echo get_template_directory_uri(); ?>/template-html/images/cXWl9unrbtcK.png 1024w, <?php echo get_template_directory_uri(); ?>/template-html/images/k3AaDRL6mHxR.png 2048w, <?php echo get_template_directory_uri(); ?>/template-html/images/9vlloFB7njX5.png 2876w"
-                              src="<?php echo get_template_directory_uri(); ?>/template-html/images/cXWl9unrbtcK.png" alt=""
-                              style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover"
-                              data-framer-original-sizes="600px"></div>
+                            data-framer-background-image-wrapper="true"><?php echo get_work_image_html(
+                              'work_1_image',
+                              'cXWl9unrbtcK.png',
+                              array('512w' => '5ipECPNYlEgf.png', '1024w' => 'cXWl9unrbtcK.png', '2048w' => 'k3AaDRL6mHxR.png', '2876w' => '9vlloFB7njX5.png'),
+                              '600px',
+                              '(min-width: 1440px) max(600px, 366px), (min-width: 1200px) and (max-width: 1439px) max(600px, 366px), (min-width: 810px) and (max-width: 1199px) max(600px, 366px), (max-width: 809px) max(600px, 366px)'
+                            ); ?></div>
                         </div>
                       </div>
                     </div>
@@ -6488,8 +6460,7 @@ get_header();
                               <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby1yZWd1bGFy;--framer-font-family:" ibm=""
                                 plex="" mono",=""
                                 monospace;--framer-letter-spacing:-0.02em;--framer-line-height:110%"=""
-                                class="framer-text">Edlyft helps CS students in the US learn in a personalized way
-                                through classes, activities & community. Edlyft recently sold to Google.</p>
+                                class="framer-text"><?php echo esc_html(get_field('work_1_desc') ? get_field('work_1_desc') : 'Edlyft helps CS students in the US learn in a personalized way through classes, activities & community. Edlyft recently sold to Google.'); ?></p>
                             </div>
                           </div>
                         </div>
@@ -6510,7 +6481,7 @@ get_header();
                             <textPath href="#curve-wnxkz4" startOffset="0" dominant-baseline="Hanging"
                               style="font-family:" ibm="" plex="" mono",=""
                               monospace;font-size:12px;font-style:normal;font-weight:500;letter-spacing:-0.14em;line-height:1em;word-spacing:4px;fill:rgb(153,=""
-                              153,="" 153)"="">& E D L Y F T & E D L Y F T & E D L Y F T </textPath>
+                              153,="" 153)"=""><?php echo esc_html(get_field('work_1_scroll_text') ? get_field('work_1_scroll_text') : '& E D L Y F T & E D L Y F T & E D L Y F T '); ?></textPath>
                           </text>
                         </svg></div>
                     </div>
@@ -6597,12 +6568,13 @@ get_header();
                         <div class="framer-1d9h69f" data-framer-name="image"
                           style="border-bottom-left-radius:16px;border-bottom-right-radius:16px">
                           <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                            data-framer-background-image-wrapper="true"><img decoding="async"
-                              sizes="(min-width: 1440px) max(600px, 366px), (min-width: 1200px) and (max-width: 1439px) max(600px, 366px), (min-width: 810px) and (max-width: 1199px) max(600px, 366px), (max-width: 809px) max(600px, 366px)"
-                              srcset="<?php echo get_template_directory_uri(); ?>/template-html/images/5ipECPNYlEgf.png 512w, <?php echo get_template_directory_uri(); ?>/template-html/images/cXWl9unrbtcK.png 1024w, <?php echo get_template_directory_uri(); ?>/template-html/images/k3AaDRL6mHxR.png 2048w, <?php echo get_template_directory_uri(); ?>/template-html/images/9vlloFB7njX5.png 2876w"
-                              src="<?php echo get_template_directory_uri(); ?>/template-html/images/cXWl9unrbtcK.png" alt=""
-                              style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover"
-                              data-framer-original-sizes="366px"></div>
+                            data-framer-background-image-wrapper="true"><?php echo get_work_image_html(
+                              'work_1_image',
+                              'cXWl9unrbtcK.png',
+                              array('512w' => '5ipECPNYlEgf.png', '1024w' => 'cXWl9unrbtcK.png', '2048w' => 'k3AaDRL6mHxR.png', '2876w' => '9vlloFB7njX5.png'),
+                              '366px',
+                              '(min-width: 1440px) max(600px, 366px), (min-width: 1200px) and (max-width: 1439px) max(600px, 366px), (min-width: 810px) and (max-width: 1199px) max(600px, 366px), (max-width: 809px) max(600px, 366px)'
+                            ); ?></div>
                         </div>
                       </div>
                     </div>
@@ -6638,8 +6610,7 @@ get_header();
                               <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby1yZWd1bGFy;--framer-font-family:" ibm=""
                                 plex="" mono",=""
                                 monospace;--framer-font-size:12px;--framer-letter-spacing:-0.02em;--framer-line-height:110%"=""
-                                class="framer-text">Edlyft helps CS students in the US learn in a personalized way
-                                through classes, activities & community. Edlyft recently sold to Google.</p>
+                                class="framer-text"><?php echo esc_html(get_field('work_1_desc') ? get_field('work_1_desc') : 'Edlyft helps CS students in the US learn in a personalized way through classes, activities & community. Edlyft recently sold to Google.'); ?></p>
                             </div>
                           </div>
                         </div>
@@ -6748,12 +6719,13 @@ get_header();
                     <div class="framer-1d9h69f" data-framer-name="image"
                       style="border-bottom-left-radius:16px;border-bottom-right-radius:16px">
                       <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                        data-framer-background-image-wrapper="true"><img decoding="async"
-                          sizes="(min-width: 1440px) max(600px, 100vw), (min-width: 1200px) and (max-width: 1439px) max(600px, 100vw), (min-width: 810px) and (max-width: 1199px) max(600px, 100vw), (max-width: 809px) max(600px, 100vw)"
-                          srcset="<?php echo get_template_directory_uri(); ?>/template-html/images/4e26s4jBO2zG.jpg 512w, <?php echo get_template_directory_uri(); ?>/template-html/images/bv3zg2oggUfB.jpg 1024w, <?php echo get_template_directory_uri(); ?>/template-html/images/2xWHcvbftkOJ.jpg 1200w"
-                          src="<?php echo get_template_directory_uri(); ?>/template-html/images/2xWHcvbftkOJ.jpg" alt=""
-                          style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover"
-                          data-framer-original-sizes="600px"></div>
+                        data-framer-background-image-wrapper="true"><?php echo get_work_image_html(
+                          'work_2_image',
+                          '2xWHcvbftkOJ.jpg',
+                          array('512w' => '4e26s4jBO2zG.jpg', '1024w' => 'bv3zg2oggUfB.jpg', '1200w' => '2xWHcvbftkOJ.jpg'),
+                          '600px',
+                          '(min-width: 1440px) max(600px, 100vw), (min-width: 1200px) and (max-width: 1439px) max(600px, 100vw), (min-width: 810px) and (max-width: 1199px) max(600px, 100vw), (max-width: 809px) max(600px, 100vw)'
+                        ); ?></div>
                     </div>
                   </div>
                 </div>
@@ -6788,8 +6760,7 @@ get_header();
                           data-framer-component-type="RichTextContainer">
                           <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby1yZWd1bGFy;--framer-font-family:" ibm=""
                             plex="" mono",="" monospace;--framer-letter-spacing:-0.02em;--framer-line-height:110%"=""
-                            class="framer-text">I led visual design at CakeDefi, which signficantly boosted marketing
-                            efforts and helped the company grow to a $1B+ valuation at its peak.</p>
+                            class="framer-text"><?php echo esc_html(get_field('work_2_desc') ? get_field('work_2_desc') : 'I led visual design at CakeDefi, which signficantly boosted marketing efforts and helped the company grow to a $1B+ valuation at its peak.'); ?></p>
                         </div>
                       </div>
                     </div>
@@ -6809,7 +6780,7 @@ get_header();
                         <textPath href="#curve-wnxkz4" startOffset="0" dominant-baseline="Hanging" style="font-family:"
                           ibm="" plex="" mono",=""
                           monospace;font-size:12px;font-style:normal;font-weight:500;letter-spacing:0.42em;line-height:1em;word-spacing:4px;fill:var(--token-7785379e-960f-4dbe-8a79-2fd421d2c100,=""
-                          rgba(255,="" 255,="" 0.64))"="">& CAKE DEFI & CAKE DEFI </textPath>
+                          rgba(255,="" 255,="" 0.64))"=""><?php echo esc_html(get_field('work_2_scroll_text') ? get_field('work_2_scroll_text') : '& CAKE DEFI & CAKE DEFI '); ?></textPath>
                       </text>
                     </svg></div>
                 </div>
@@ -6817,10 +6788,14 @@ get_header();
                   style="transform:perspective(1200px) translateZ(72px)">
                   <div class="framer-17oj1lx">
                     <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                      data-framer-background-image-wrapper="true"><img decoding="async"
-                        sizes="(min-width: 1440px) 142px, (min-width: 1200px) and (max-width: 1439px) 142px, (min-width: 810px) and (max-width: 1199px) 142px, (max-width: 809px) 142px"
-                        srcset="<?php echo get_template_directory_uri(); ?>/template-html/images/vXvrNOPK1jic.png 512w, <?php echo get_template_directory_uri(); ?>/template-html/images/IFQdh1psSQAL.png 811w"
-                        src="<?php echo get_template_directory_uri(); ?>/template-html/images/IFQdh1psSQAL.png" alt=""
+                      data-framer-background-image-wrapper="true">
+                      <?php 
+                      $work_2_logo = get_field('work_2_logo');
+                      $work_2_logo_src = $work_2_logo ? esc_url($work_2_logo) : get_template_directory_uri() . '/template-html/images/IFQdh1psSQAL.png';
+                      $work_2_logo_srcset = $work_2_logo ? '' : 'srcset="' . get_template_directory_uri() . '/template-html/images/vXvrNOPK1jic.png 512w, ' . get_template_directory_uri() . '/template-html/images/IFQdh1psSQAL.png 811w"';
+                      ?>
+                      <img decoding="async" <?php echo $work_2_logo_srcset; ?>
+                        src="<?php echo $work_2_logo_src; ?>" alt=""
                         style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover"
                         data-framer-original-sizes="142px"></div>
                   </div>
@@ -6893,12 +6868,13 @@ get_header();
                     <div class="framer-1d9h69f" data-framer-name="image"
                       style="border-bottom-left-radius:16px;border-bottom-right-radius:16px">
                       <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                        data-framer-background-image-wrapper="true"><img decoding="async"
-                          sizes="(min-width: 1440px) max(600px, 100vw), (min-width: 1200px) and (max-width: 1439px) max(600px, 100vw), (min-width: 810px) and (max-width: 1199px) max(600px, 100vw), (max-width: 809px) max(600px, 100vw)"
-                          srcset="<?php echo get_template_directory_uri(); ?>/template-html/images/4e26s4jBO2zG.jpg 512w, <?php echo get_template_directory_uri(); ?>/template-html/images/bv3zg2oggUfB.jpg 1024w, <?php echo get_template_directory_uri(); ?>/template-html/images/2xWHcvbftkOJ.jpg 1200w"
-                          src="<?php echo get_template_directory_uri(); ?>/template-html/images/2xWHcvbftkOJ.jpg" alt=""
-                          style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover"
-                          data-framer-original-sizes="100vw"></div>
+                        data-framer-background-image-wrapper="true"><?php echo get_work_image_html(
+                          'work_2_image',
+                          '2xWHcvbftkOJ.jpg',
+                          array('512w' => '4e26s4jBO2zG.jpg', '1024w' => 'bv3zg2oggUfB.jpg', '1200w' => '2xWHcvbftkOJ.jpg'),
+                          '100vw',
+                          '(min-width: 1440px) max(600px, 100vw), (min-width: 1200px) and (max-width: 1439px) max(600px, 100vw), (min-width: 810px) and (max-width: 1199px) max(600px, 100vw), (max-width: 809px) max(600px, 100vw)'
+                        ); ?></div>
                     </div>
                   </div>
                 </div>
@@ -6934,8 +6910,7 @@ get_header();
                           <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby1yZWd1bGFy;--framer-font-family:" ibm=""
                             plex="" mono",=""
                             monospace;--framer-font-size:12px;--framer-letter-spacing:-0.02em;--framer-line-height:110%"=""
-                            class="framer-text">I led visual design at CakeDefi, which signficantly boosted marketing
-                            efforts and helped the company grow to a $1B+ valuation at its peak.</p>
+                            class="framer-text"><?php echo esc_html(get_field('work_2_desc') ? get_field('work_2_desc') : 'I led visual design at CakeDefi, which signficantly boosted marketing efforts and helped the company grow to a $1B+ valuation at its peak.'); ?></p>
                         </div>
                       </div>
                     </div>
@@ -6955,7 +6930,7 @@ get_header();
                         <textPath href="#curve-wnxkz4" startOffset="0" dominant-baseline="Hanging" style="font-family:"
                           ibm="" plex="" mono",=""
                           monospace;font-size:12px;font-style:normal;font-weight:500;letter-spacing:0.42em;line-height:1em;word-spacing:4px;fill:var(--token-7785379e-960f-4dbe-8a79-2fd421d2c100,=""
-                          rgba(255,="" 255,="" 0.64))"="">& CAKE DEFI & CAKE DEFI </textPath>
+                          rgba(255,="" 255,="" 0.64))"=""><?php echo esc_html(get_field('work_2_scroll_text') ? get_field('work_2_scroll_text') : '& CAKE DEFI & CAKE DEFI '); ?></textPath>
                       </text>
                     </svg></div>
                 </div>
@@ -6963,10 +6938,14 @@ get_header();
                   style="transform:perspective(1200px) translateZ(72px)">
                   <div class="framer-78h7xp" data-framer-name="Cake logo">
                     <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                      data-framer-background-image-wrapper="true"><img decoding="async"
-                        sizes="(min-width: 1440px) 142px, (min-width: 1200px) and (max-width: 1439px) 142px, (min-width: 810px) and (max-width: 1199px) 142px, (max-width: 809px) 142px"
-                        srcset="<?php echo get_template_directory_uri(); ?>/template-html/images/vXvrNOPK1jic.png 512w, <?php echo get_template_directory_uri(); ?>/template-html/images/IFQdh1psSQAL.png 811w"
-                        src="<?php echo get_template_directory_uri(); ?>/template-html/images/IFQdh1psSQAL.png" alt=""
+                      data-framer-background-image-wrapper="true">
+                      <?php 
+                      $work_2_logo = get_field('work_2_logo');
+                      $work_2_logo_src = $work_2_logo ? esc_url($work_2_logo) : get_template_directory_uri() . '/template-html/images/IFQdh1psSQAL.png';
+                      $work_2_logo_srcset = $work_2_logo ? '' : 'srcset="' . get_template_directory_uri() . '/template-html/images/vXvrNOPK1jic.png 512w, ' . get_template_directory_uri() . '/template-html/images/IFQdh1psSQAL.png 811w"';
+                      ?>
+                      <img decoding="async" <?php echo $work_2_logo_srcset; ?>
+                        src="<?php echo $work_2_logo_src; ?>" alt=""
                         style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover"
                         data-framer-original-sizes="142px"></div>
                   </div>
@@ -7044,12 +7023,13 @@ get_header();
                       <div class="framer-1d9h69f" data-framer-name="image"
                         style="border-bottom-left-radius:16px;border-bottom-right-radius:16px">
                         <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                          data-framer-background-image-wrapper="true"><img decoding="async"
-                            sizes="(min-width: 1440px) max(600px, 100vw), (min-width: 1200px) and (max-width: 1439px) max(600px, 100vw), (min-width: 810px) and (max-width: 1199px) max(600px, 100vw), (max-width: 809px) max(600px, 100vw)"
-                            srcset="<?php echo get_template_directory_uri(); ?>/template-html/images/rcVDxQcjQYa7.jpg 512w, <?php echo get_template_directory_uri(); ?>/template-html/images/fHEYIHaHtnXo.jpg 1024w, <?php echo get_template_directory_uri(); ?>/template-html/images/a9PJejMcfcQb.jpg 1200w"
-                            src="<?php echo get_template_directory_uri(); ?>/template-html/images/a9PJejMcfcQb.jpg" alt=""
-                            style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover"
-                            data-framer-original-sizes="600px"></div>
+                          data-framer-background-image-wrapper="true"><?php echo get_work_image_html(
+                            'work_3_image',
+                            'a9PJejMcfcQb.jpg',
+                            array('512w' => 'rcVDxQcjQYa7.jpg', '1024w' => 'fHEYIHaHtnXo.jpg', '1200w' => 'a9PJejMcfcQb.jpg'),
+                            '600px',
+                            '(min-width: 1440px) max(600px, 100vw), (min-width: 1200px) and (max-width: 1439px) max(600px, 100vw), (min-width: 810px) and (max-width: 1199px) max(600px, 100vw), (max-width: 809px) max(600px, 100vw)'
+                          ); ?></div>
                       </div>
                     </div>
                   </div>
@@ -7084,8 +7064,7 @@ get_header();
                             data-framer-component-type="RichTextContainer">
                             <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby1yZWd1bGFy;--framer-font-family:" ibm=""
                               plex="" mono",="" monospace;--framer-letter-spacing:-0.02em;--framer-line-height:110%"=""
-                              class="framer-text">My team at DDUC Design Studio rebuilt the AR Initiative website to
-                              align with their brand position and better showcase their work.</p>
+                              class="framer-text"><?php echo esc_html(get_field('work_3_desc') ? get_field('work_3_desc') : 'My team at DDUC Design Studio rebuilt the AR Initiative website to align with their brand position and better showcase their work.'); ?></p>
                           </div>
                         </div>
                       </div>
@@ -7105,7 +7084,7 @@ get_header();
                           <textPath href="#curve-wnxkz4" startOffset="0" dominant-baseline="Hanging"
                             style="font-family:" ibm="" plex="" mono",=""
                             monospace;font-size:12px;font-style:normal;font-weight:500;letter-spacing:0.76em;line-height:1em;word-spacing:4px;fill:var(--token-7785379e-960f-4dbe-8a79-2fd421d2c100,=""
-                            rgba(255,="" 255,="" 0.64))"="">&THE AR INITIATIVE&THE AR INITIATIVE</textPath>
+                            rgba(255,="" 255,="" 0.64))"=""><?php echo esc_html(get_field('work_3_scroll_text') ? get_field('work_3_scroll_text') : '&THE AR INITIATIVE&THE AR INITIATIVE'); ?></textPath>
                         </text>
                       </svg></div>
                   </div>
@@ -7113,10 +7092,14 @@ get_header();
                     style="transform:perspective(1200px) translateZ(72px)">
                     <div class="framer-da6r7s">
                       <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                        data-framer-background-image-wrapper="true"><img decoding="async"
-                          sizes="(min-width: 1440px) max(151px, 137px), (min-width: 1200px) and (max-width: 1439px) max(151px, 137px), (min-width: 810px) and (max-width: 1199px) max(151px, 137px), (max-width: 809px) max(151px, 137px)"
-                          srcset="<?php echo get_template_directory_uri(); ?>/template-html/images/Z8Yo7nxdIRm7.png 512w, <?php echo get_template_directory_uri(); ?>/template-html/images/YBi4gTPZnVee.png 640w"
-                          src="<?php echo get_template_directory_uri(); ?>/template-html/images/YBi4gTPZnVee.png" alt=""
+                        data-framer-background-image-wrapper="true">
+                        <?php 
+                        $work_3_logo = get_field('work_3_logo');
+                        $work_3_logo_src = $work_3_logo ? esc_url($work_3_logo) : get_template_directory_uri() . '/template-html/images/YBi4gTPZnVee.png';
+                        $work_3_logo_srcset = $work_3_logo ? '' : 'srcset="' . get_template_directory_uri() . '/template-html/images/Z8Yo7nxdIRm7.png 512w, ' . get_template_directory_uri() . '/template-html/images/YBi4gTPZnVee.png 640w"';
+                        ?>
+                        <img decoding="async" <?php echo $work_3_logo_srcset; ?>
+                          src="<?php echo $work_3_logo_src; ?>" alt=""
                           style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover"
                           data-framer-original-sizes="151px"></div>
                     </div>
@@ -7192,12 +7175,13 @@ get_header();
                       <div class="framer-1d9h69f" data-framer-name="image"
                         style="border-bottom-left-radius:16px;border-bottom-right-radius:16px">
                         <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                          data-framer-background-image-wrapper="true"><img decoding="async"
-                            sizes="(min-width: 1440px) max(600px, 100vw), (min-width: 1200px) and (max-width: 1439px) max(600px, 100vw), (min-width: 810px) and (max-width: 1199px) max(600px, 100vw), (max-width: 809px) max(600px, 100vw)"
-                            srcset="<?php echo get_template_directory_uri(); ?>/template-html/images/rcVDxQcjQYa7.jpg 512w, <?php echo get_template_directory_uri(); ?>/template-html/images/fHEYIHaHtnXo.jpg 1024w, <?php echo get_template_directory_uri(); ?>/template-html/images/a9PJejMcfcQb.jpg 1200w"
-                            src="<?php echo get_template_directory_uri(); ?>/template-html/images/a9PJejMcfcQb.jpg" alt=""
-                            style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover"
-                            data-framer-original-sizes="100vw"></div>
+                          data-framer-background-image-wrapper="true"><?php echo get_work_image_html(
+                            'work_3_image',
+                            'a9PJejMcfcQb.jpg',
+                            array('512w' => 'rcVDxQcjQYa7.jpg', '1024w' => 'fHEYIHaHtnXo.jpg', '1200w' => 'a9PJejMcfcQb.jpg'),
+                            '100vw',
+                            '(min-width: 1440px) max(600px, 100vw), (min-width: 1200px) and (max-width: 1439px) max(600px, 100vw), (min-width: 810px) and (max-width: 1199px) max(600px, 100vw), (max-width: 809px) max(600px, 100vw)'
+                          ); ?></div>
                       </div>
                     </div>
                   </div>
@@ -7233,8 +7217,7 @@ get_header();
                             <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby1yZWd1bGFy;--framer-font-family:" ibm=""
                               plex="" mono",=""
                               monospace;--framer-font-size:12px;--framer-letter-spacing:-0.02em;--framer-line-height:110%"=""
-                              class="framer-text">My team at DDUC Design Studio rebuilt the AR Initiative website to
-                              align with their brand positioning and better showcase their work.</p>
+                              class="framer-text"><?php echo esc_html(get_field('work_3_desc') ? get_field('work_3_desc') : 'My team at DDUC Design Studio rebuilt the AR Initiative website to align with their brand positioning and better showcase their work.'); ?></p>
                           </div>
                         </div>
                       </div>
@@ -7254,7 +7237,7 @@ get_header();
                           <textPath href="#curve-wnxkz4" startOffset="0" dominant-baseline="Hanging"
                             style="font-family:" ibm="" plex="" mono",=""
                             monospace;font-size:12px;font-style:normal;font-weight:500;letter-spacing:0.76em;line-height:1em;word-spacing:4px;fill:var(--token-7785379e-960f-4dbe-8a79-2fd421d2c100,=""
-                            rgba(255,="" 255,="" 0.64))"="">&THE AR INITIATIVE&THE AR INITIATIVE</textPath>
+                            rgba(255,="" 255,="" 0.64))"=""><?php echo esc_html(get_field('work_3_scroll_text') ? get_field('work_3_scroll_text') : '&THE AR INITIATIVE&THE AR INITIATIVE'); ?></textPath>
                         </text>
                       </svg></div>
                   </div>
@@ -7262,10 +7245,14 @@ get_header();
                     style="transform:perspective(1200px) translateZ(72px)">
                     <div class="framer-124vvcl">
                       <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                        data-framer-background-image-wrapper="true"><img decoding="async"
-                          sizes="(min-width: 1440px) max(151px, 137px), (min-width: 1200px) and (max-width: 1439px) max(151px, 137px), (min-width: 810px) and (max-width: 1199px) max(151px, 137px), (max-width: 809px) max(151px, 137px)"
-                          srcset="<?php echo get_template_directory_uri(); ?>/template-html/images/Z8Yo7nxdIRm7.png 512w, <?php echo get_template_directory_uri(); ?>/template-html/images/YBi4gTPZnVee.png 640w"
-                          src="<?php echo get_template_directory_uri(); ?>/template-html/images/YBi4gTPZnVee.png" alt=""
+                        data-framer-background-image-wrapper="true">
+                        <?php 
+                        $work_3_logo = get_field('work_3_logo');
+                        $work_3_logo_src = $work_3_logo ? esc_url($work_3_logo) : get_template_directory_uri() . '/template-html/images/YBi4gTPZnVee.png';
+                        $work_3_logo_srcset = $work_3_logo ? '' : 'srcset="' . get_template_directory_uri() . '/template-html/images/Z8Yo7nxdIRm7.png 512w, ' . get_template_directory_uri() . '/template-html/images/YBi4gTPZnVee.png 640w"';
+                        ?>
+                        <img decoding="async" <?php echo $work_3_logo_srcset; ?>
+                          src="<?php echo $work_3_logo_src; ?>" alt=""
                           style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover"
                           data-framer-original-sizes="137px"></div>
                     </div>
@@ -7627,39 +7614,38 @@ get_header();
                         data-framer-component-type="RichTextContainer">
                         <p style="--font-selector:SW50ZXItU2VtaUJvbGQ=;--framer-font-family:"
                           inter",="" "inter="" placeholder" ,=""
+                            style="--font-selector:SW50ZXItU2VtaUJvbGQ=;--framer-font-family:"
+                          inter",="" "inter="" placeholder" ,=""
                           sans-serif;--framer-font-size:12px;--framer-font-weight:600;--framer-letter-spacing:-0.02em;--framer-line-height:14.4px;--framer-text-color:var(--extracted-r6o4lv,=""
                           rgb(30,="" 30,="" 30))"="" class="framer-text"><?php echo esc_html(get_field('figma_3_title') ? get_field('figma_3_title') : 'iPhone 15 Mockup'); ?></p>
                       </div>
                     </div>
                   </a><!--/$--></div>
               </div>
-            </div>
-            <div class="framer-ncnh24" data-framer-name="Row 2">
+              <div class="framer-ncnh24" data-framer-name="Row 2">
               <div class="ssr-variant hidden-1yyu1ju">
                 <div class="framer-x3gve5-container"><!--$--><a
                     class="framer-KeS3f framer-12w86ae framer-v-12w86ae framer-fbw9bj" data-framer-name="Variant 1"
                     style="box-shadow:0px 3.200000047683716px 3.200000047683716px 0px rgba(0, 0, 0, 0.25)"
-                    href="https://www.figma.com/community/file/1115732780020196580/samsung-galaxy-s22-mockup-4-variants"
-                    target="_blank" rel="noopener">
+                    href="<?php echo esc_url(get_field('figma_4_link') ? get_field('figma_4_link') : 'https://www.figma.com/community/file/1115732780020196580/samsung-galaxy-s22-mockup-4-variants'); ?>" target="_blank"
+                    rel="noopener">
                     <div class="framer-12u1m4p" data-border="true" data-framer-name="Flow"
                       style="--border-bottom-width:6px;--border-color:rgb(255, 255, 255);--border-left-width:6px;--border-right-width:6px;--border-style:solid;--border-top-width:6px;border-bottom-left-radius:14.4px;border-bottom-right-radius:14.4px;border-top-left-radius:14.4px;border-top-right-radius:14.4px">
                       <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                        data-framer-background-image-wrapper="true"><img decoding="async"
-                          sizes="(min-width: 1440px) 240px, (min-width: 1200px) and (max-width: 1439px) 240px, (min-width: 810px) and (max-width: 1199px) 240px, (max-width: 809px) calc(100vw - 64px)"
-                          srcset="<?php echo get_template_directory_uri(); ?>/template-html/images/irZjHLKdhi1D.jpg 512w, <?php echo get_template_directory_uri(); ?>/template-html/images/0ipwgzDVijwV.jpg 600w"
-                          src="<?php echo get_template_directory_uri(); ?>/template-html/images/0ipwgzDVijwV.jpg" alt=""
-                          style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:fill"
-                          data-framer-original-sizes="240px"></div>
+                        data-framer-background-image-wrapper="true"><?php echo get_work_image_html(
+                          'figma_4_image',
+                          '0ipwgzDVijwV.jpg',
+                          array('512w' => 'irZjHLKdhi1D.jpg', '600w' => '0ipwgzDVijwV.jpg'),
+                          '240px',
+                          '(min-width: 1440px) 240px, (min-width: 1200px) and (max-width: 1439px) 240px, (min-width: 810px) and (max-width: 1199px) 240px, (max-width: 809px) calc(100vw - 64px)'
+                        ); ?></div>
                       <div class="framer-1tkshqr-container">
                         <div class="framer-1tAV9 framer-kzslrq framer-v-kzslrq" data-framer-name="Variant 1"
                           style="backdrop-filter:blur(6px);background-color:rgba(255, 255, 255, 0.72);border-bottom-left-radius:24px;border-bottom-right-radius:24px;border-top-left-radius:24px;border-top-right-radius:24px;-webkit-backdrop-filter:blur(6px)">
-                          <div class="framer-1ik0zcq" data-framer-name="<?php echo esc_html(get_field('figma_2_tag') ? get_field('figma_2_tag') : '13k users'); ?>"
+                          <div class="framer-1ik0zcq" data-framer-name="<?php echo esc_attr(get_field('figma_4_tag') ? get_field('figma_4_tag') : '3.3k users'); ?>"
                             style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(30, 30, 30);--framer-paragraph-spacing:0px;transform:none"
                             data-framer-component-type="RichTextContainer">
-                            <p style="--font-selector:SW50ZXItTWVkaXVt;--framer-font-family:"
-                              inter",="" "inter="" placeholder" ,=""
-                              sans-serif;--framer-font-size:11px;--framer-font-weight:500;--framer-letter-spacing:-0.02em;--framer-line-height:14.4px;--framer-text-color:var(--extracted-r6o4lv,=""
-                              rgb(30,="" 30,="" 30))"="" class="framer-text">3.3k users</p>
+                            <p style="--font-selector:SW50ZXItTWVkaXVt;--framer-font-family:&quot;inter&quot;,=&quot;&quot; &quot;inter=&quot;&quot; placeholder&quot;=,&quot;&quot; sans-serif;--framer-font-size:11px;--framer-font-weight:500;--framer-letter-spacing:-0.02em;--framer-line-height:14.4px;--framer-text-color:var(--extracted-r6o4lv, rgb(30, 30, 30))" class="framer-text"><?php echo esc_html(get_field('figma_4_tag') ? get_field('figma_4_tag') : '3.3k users'); ?></p>
                           </div>
                         </div>
                       </div>
@@ -7679,13 +7665,10 @@ get_header();
                           </div>
                         </div>
                       </div>
-                      <div class="framer-1hz5mze" data-framer-name="<?php echo esc_html(get_field('figma_1_title') ? get_field('figma_1_title') : 'iPhone 12 Mockup'); ?>"
+                      <div class="framer-1hz5mze" data-framer-name="<?php echo esc_attr(get_field('figma_4_title') ? get_field('figma_4_title') : 'Galaxy S22 Mockup'); ?>"
                         style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(30, 30, 30);--framer-paragraph-spacing:0px;transform:none"
                         data-framer-component-type="RichTextContainer">
-                        <p style="--font-selector:SW50ZXItU2VtaUJvbGQ=;--framer-font-family:"
-                          inter",="" "inter="" placeholder" ,=""
-                          sans-serif;--framer-font-size:12px;--framer-font-weight:600;--framer-letter-spacing:-0.02em;--framer-line-height:14.4px;--framer-text-color:var(--extracted-r6o4lv,=""
-                          rgb(30,="" 30,="" 30))"="" class="framer-text">Galaxy S22 Mockup</p>
+                        <p style="--font-selector:SW50ZXItU2VtaUJvbGQ=;--framer-font-family:&quot;inter&quot;,=&quot;&quot; &quot;inter=&quot;&quot; placeholder&quot;=,&quot;&quot; sans-serif;--framer-font-size:12px;--framer-font-weight:600;--framer-letter-spacing:-0.02em;--framer-line-height:14.4px;--framer-text-color:var(--extracted-r6o4lv, rgb(30, 30, 30))" class="framer-text"><?php echo esc_html(get_field('figma_4_title') ? get_field('figma_4_title') : 'Galaxy S22 Mockup'); ?></p>
                       </div>
                     </div>
                   </a><!--/$--></div>
@@ -7694,27 +7677,25 @@ get_header();
                 <div class="framer-x3gve5-container"><!--$--><a
                     class="framer-KeS3f framer-12w86ae framer-v-mjxfw framer-fbw9bj" data-framer-name="Mobile"
                     style="box-shadow:none;width:100%"
-                    href="https://www.figma.com/community/file/1115732780020196580/samsung-galaxy-s22-mockup-4-variants"
+                    href="<?php echo esc_url(get_field('figma_4_link') ? get_field('figma_4_link') : 'https://www.figma.com/community/file/1115732780020196580/samsung-galaxy-s22-mockup-4-variants'); ?>"
                     target="_blank" rel="noopener">
                     <div class="framer-12u1m4p" data-border="true" data-framer-name="Flow"
                       style="--border-bottom-width:6px;--border-color:rgb(255, 255, 255);--border-left-width:6px;--border-right-width:6px;--border-style:solid;--border-top-width:6px;border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px">
                       <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                        data-framer-background-image-wrapper="true"><img decoding="async"
-                          sizes="(min-width: 1440px) 240px, (min-width: 1200px) and (max-width: 1439px) 240px, (min-width: 810px) and (max-width: 1199px) 240px, (max-width: 809px) calc(100vw - 64px)"
-                          srcset="<?php echo get_template_directory_uri(); ?>/template-html/images/irZjHLKdhi1D.jpg 512w, <?php echo get_template_directory_uri(); ?>/template-html/images/0ipwgzDVijwV.jpg 600w"
-                          src="<?php echo get_template_directory_uri(); ?>/template-html/images/0ipwgzDVijwV.jpg" alt=""
-                          style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:fill"
-                          data-framer-original-sizes="calc(100vw - 64px)"></div>
+                        data-framer-background-image-wrapper="true"><?php echo get_work_image_html(
+                          'figma_4_image',
+                          '0ipwgzDVijwV.jpg',
+                          array('512w' => 'irZjHLKdhi1D.jpg', '600w' => '0ipwgzDVijwV.jpg'),
+                          'calc(100vw - 64px)',
+                          '(min-width: 1440px) 240px, (min-width: 1200px) and (max-width: 1439px) 240px, (min-width: 810px) and (max-width: 1199px) 240px, (max-width: 809px) calc(100vw - 64px)'
+                        ); ?></div>
                       <div class="framer-1tkshqr-container">
                         <div class="framer-1tAV9 framer-kzslrq framer-v-kzslrq" data-framer-name="Variant 1"
                           style="backdrop-filter:blur(6px);background-color:rgba(255, 255, 255, 0.72);border-bottom-left-radius:24px;border-bottom-right-radius:24px;border-top-left-radius:24px;border-top-right-radius:24px;-webkit-backdrop-filter:blur(6px)">
-                          <div class="framer-1ik0zcq" data-framer-name="<?php echo esc_html(get_field('figma_2_tag') ? get_field('figma_2_tag') : '13k users'); ?>"
+                          <div class="framer-1ik0zcq" data-framer-name="<?php echo esc_attr(get_field('figma_4_tag') ? get_field('figma_4_tag') : '3.3k users'); ?>"
                             style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(30, 30, 30);--framer-paragraph-spacing:0px;transform:none"
                             data-framer-component-type="RichTextContainer">
-                            <p style="--font-selector:SW50ZXItTWVkaXVt;--framer-font-family:"
-                              inter",="" "inter="" placeholder" ,=""
-                              sans-serif;--framer-font-size:11px;--framer-font-weight:500;--framer-letter-spacing:-0.02em;--framer-line-height:14.4px;--framer-text-color:var(--extracted-r6o4lv,=""
-                              rgb(30,="" 30,="" 30))"="" class="framer-text">3.3k users</p>
+                            <p style="--font-selector:SW50ZXItTWVkaXVt;--framer-font-family:&quot;inter&quot;,=&quot;&quot; &quot;inter=&quot;&quot; placeholder&quot;=,&quot;&quot; sans-serif;--framer-font-size:11px;--framer-font-weight:500;--framer-letter-spacing:-0.02em;--framer-line-height:14.4px;--framer-text-color:var(--extracted-r6o4lv, rgb(30, 30, 30))" class="framer-text"><?php echo esc_html(get_field('figma_4_tag') ? get_field('figma_4_tag') : '3.3k users'); ?></p>
                           </div>
                         </div>
                       </div>
@@ -7734,13 +7715,10 @@ get_header();
                           </div>
                         </div>
                       </div>
-                      <div class="framer-1hz5mze" data-framer-name="<?php echo esc_html(get_field('figma_1_title') ? get_field('figma_1_title') : 'iPhone 12 Mockup'); ?>"
+                      <div class="framer-1hz5mze" data-framer-name="<?php echo esc_attr(get_field('figma_4_title') ? get_field('figma_4_title') : 'Galaxy S22 Mockup'); ?>"
                         style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(30, 30, 30);--framer-paragraph-spacing:0px;transform:none"
                         data-framer-component-type="RichTextContainer">
-                        <p style="--font-selector:SW50ZXItU2VtaUJvbGQ=;--framer-font-family:"
-                          inter",="" "inter="" placeholder" ,=""
-                          sans-serif;--framer-font-size:12px;--framer-font-weight:600;--framer-letter-spacing:-0.02em;--framer-line-height:14.4px;--framer-text-color:var(--extracted-r6o4lv,=""
-                          rgb(30,="" 30,="" 30))"="" class="framer-text">Galaxy S22 Mockup</p>
+                        <p style="--font-selector:SW50ZXItU2VtaUJvbGQ=;--framer-font-family:&quot;inter&quot;,=&quot;&quot; &quot;inter=&quot;&quot; placeholder&quot;=,&quot;&quot; sans-serif;--framer-font-size:12px;--framer-font-weight:600;--framer-letter-spacing:-0.02em;--framer-line-height:14.4px;--framer-text-color:var(--extracted-r6o4lv, rgb(30, 30, 30))" class="framer-text"><?php echo esc_html(get_field('figma_4_title') ? get_field('figma_4_title') : 'Galaxy S22 Mockup'); ?></p>
                       </div>
                     </div>
                   </a><!--/$--></div>
@@ -7749,27 +7727,25 @@ get_header();
                 <div class="framer-1khdde2-container"><!--$--><a
                     class="framer-KeS3f framer-12w86ae framer-v-12w86ae framer-fbw9bj" data-framer-name="Variant 1"
                     style="box-shadow:0px 3.200000047683716px 3.200000047683716px 0px rgba(0, 0, 0, 0.25)"
-                    href="https://www.figma.com/community/file/1196208945746837753/trailing-cursor-prototype"
+                    href="<?php echo esc_url(get_field('figma_5_link') ? get_field('figma_5_link') : 'https://www.figma.com/community/file/1196208945746837753/trailing-cursor-prototype'); ?>"
                     target="_blank" rel="noopener">
                     <div class="framer-12u1m4p" data-border="true" data-framer-name="Flow"
                       style="--border-bottom-width:6px;--border-color:rgb(255, 255, 255);--border-left-width:6px;--border-right-width:6px;--border-style:solid;--border-top-width:6px;border-bottom-left-radius:14.4px;border-bottom-right-radius:14.4px;border-top-left-radius:14.4px;border-top-right-radius:14.4px">
                       <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                        data-framer-background-image-wrapper="true"><img decoding="async"
-                          sizes="(min-width: 1440px) 240px, (min-width: 1200px) and (max-width: 1439px) 240px, (min-width: 810px) and (max-width: 1199px) 240px, (max-width: 809px) calc(100vw - 64px)"
-                          srcset="<?php echo get_template_directory_uri(); ?>/template-html/images/RhMf8fQkJM21.jpg 512w, <?php echo get_template_directory_uri(); ?>/template-html/images/cgUA8MIxuGKS.jpg 600w"
-                          src="<?php echo get_template_directory_uri(); ?>/template-html/images/cgUA8MIxuGKS.jpg" alt=""
-                          style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:fill"
-                          data-framer-original-sizes="240px"></div>
+                        data-framer-background-image-wrapper="true"><?php echo get_work_image_html(
+                          'figma_5_image',
+                          'cgUA8MIxuGKS.jpg',
+                          array('512w' => 'RhMf8fQkJM21.jpg', '600w' => 'cgUA8MIxuGKS.jpg'),
+                          '240px',
+                          '(min-width: 1440px) 240px, (min-width: 1200px) and (max-width: 1439px) 240px, (min-width: 810px) and (max-width: 1199px) 240px, (max-width: 809px) calc(100vw - 64px)'
+                        ); ?></div>
                       <div class="framer-1tkshqr-container">
                         <div class="framer-1tAV9 framer-kzslrq framer-v-kzslrq" data-framer-name="Variant 1"
                           style="backdrop-filter:blur(6px);background-color:rgba(255, 255, 255, 0.72);border-bottom-left-radius:24px;border-bottom-right-radius:24px;border-top-left-radius:24px;border-top-right-radius:24px;-webkit-backdrop-filter:blur(6px)">
-                          <div class="framer-1ik0zcq" data-framer-name="<?php echo esc_html(get_field('figma_2_tag') ? get_field('figma_2_tag') : '13k users'); ?>"
+                          <div class="framer-1ik0zcq" data-framer-name="<?php echo esc_attr(get_field('figma_5_tag') ? get_field('figma_5_tag') : '1.4k users'); ?>"
                             style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(30, 30, 30);--framer-paragraph-spacing:0px;transform:none"
                             data-framer-component-type="RichTextContainer">
-                            <p style="--font-selector:SW50ZXItTWVkaXVt;--framer-font-family:"
-                              inter",="" "inter="" placeholder" ,=""
-                              sans-serif;--framer-font-size:11px;--framer-font-weight:500;--framer-letter-spacing:-0.02em;--framer-line-height:14.4px;--framer-text-color:var(--extracted-r6o4lv,=""
-                              rgb(30,="" 30,="" 30))"="" class="framer-text">1.4k users</p>
+                            <p style="--font-selector:SW50ZXItTWVkaXVt;--framer-font-family:&quot;inter&quot;,=&quot;&quot; &quot;inter=&quot;&quot; placeholder&quot;=,&quot;&quot; sans-serif;--framer-font-size:11px;--framer-font-weight:500;--framer-letter-spacing:-0.02em;--framer-line-height:14.4px;--framer-text-color:var(--extracted-r6o4lv, rgb(30, 30, 30))" class="framer-text"><?php echo esc_html(get_field('figma_5_tag') ? get_field('figma_5_tag') : '1.4k users'); ?></p>
                           </div>
                         </div>
                       </div>
@@ -7789,13 +7765,10 @@ get_header();
                           </div>
                         </div>
                       </div>
-                      <div class="framer-1hz5mze" data-framer-name="<?php echo esc_html(get_field('figma_1_title') ? get_field('figma_1_title') : 'iPhone 12 Mockup'); ?>"
+                      <div class="framer-1hz5mze" data-framer-name="<?php echo esc_attr(get_field('figma_5_title') ? get_field('figma_5_title') : 'Trailing cursor prototype'); ?>"
                         style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(30, 30, 30);--framer-paragraph-spacing:0px;transform:none"
                         data-framer-component-type="RichTextContainer">
-                        <p style="--font-selector:SW50ZXItU2VtaUJvbGQ=;--framer-font-family:"
-                          inter",="" "inter="" placeholder" ,=""
-                          sans-serif;--framer-font-size:12px;--framer-font-weight:600;--framer-letter-spacing:-0.02em;--framer-line-height:14.4px;--framer-text-color:var(--extracted-r6o4lv,=""
-                          rgb(30,="" 30,="" 30))"="" class="framer-text">Trailing cursor prototype</p>
+                        <p style="--font-selector:SW50ZXItU2VtaUJvbGQ=;--framer-font-family:&quot;inter&quot;,=&quot;&quot; &quot;inter=&quot;&quot; placeholder&quot;=,&quot;&quot; sans-serif;--framer-font-size:12px;--framer-font-weight:600;--framer-letter-spacing:-0.02em;--framer-line-height:14.4px;--framer-text-color:var(--extracted-r6o4lv, rgb(30, 30, 30))" class="framer-text"><?php echo esc_html(get_field('figma_5_title') ? get_field('figma_5_title') : 'Trailing cursor prototype'); ?></p>
                       </div>
                     </div>
                   </a><!--/$--></div>
@@ -7804,27 +7777,25 @@ get_header();
                 <div class="framer-1khdde2-container"><!--$--><a
                     class="framer-KeS3f framer-12w86ae framer-v-mjxfw framer-fbw9bj" data-framer-name="Mobile"
                     style="box-shadow:none;width:100%"
-                    href="https://www.figma.com/community/file/1196208945746837753/trailing-cursor-prototype"
+                    href="<?php echo esc_url(get_field('figma_5_link') ? get_field('figma_5_link') : 'https://www.figma.com/community/file/1196208945746837753/trailing-cursor-prototype'); ?>"
                     target="_blank" rel="noopener">
                     <div class="framer-12u1m4p" data-border="true" data-framer-name="Flow"
                       style="--border-bottom-width:6px;--border-color:rgb(255, 255, 255);--border-left-width:6px;--border-right-width:6px;--border-style:solid;--border-top-width:6px;border-bottom-left-radius:20px;border-bottom-right-radius:20px;border-top-left-radius:20px;border-top-right-radius:20px">
                       <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                        data-framer-background-image-wrapper="true"><img decoding="async"
-                          sizes="(min-width: 1440px) 240px, (min-width: 1200px) and (max-width: 1439px) 240px, (min-width: 810px) and (max-width: 1199px) 240px, (max-width: 809px) calc(100vw - 64px)"
-                          srcset="<?php echo get_template_directory_uri(); ?>/template-html/images/RhMf8fQkJM21.jpg 512w, <?php echo get_template_directory_uri(); ?>/template-html/images/cgUA8MIxuGKS.jpg 600w"
-                          src="<?php echo get_template_directory_uri(); ?>/template-html/images/cgUA8MIxuGKS.jpg" alt=""
-                          style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:fill"
-                          data-framer-original-sizes="calc(100vw - 64px)"></div>
+                        data-framer-background-image-wrapper="true"><?php echo get_work_image_html(
+                          'figma_5_image',
+                          'cgUA8MIxuGKS.jpg',
+                          array('512w' => 'RhMf8fQkJM21.jpg', '600w' => 'cgUA8MIxuGKS.jpg'),
+                          'calc(100vw - 64px)',
+                          '(min-width: 1440px) 240px, (min-width: 1200px) and (max-width: 1439px) 240px, (min-width: 810px) and (max-width: 1199px) 240px, (max-width: 809px) calc(100vw - 64px)'
+                        ); ?></div>
                       <div class="framer-1tkshqr-container">
                         <div class="framer-1tAV9 framer-kzslrq framer-v-kzslrq" data-framer-name="Variant 1"
                           style="backdrop-filter:blur(6px);background-color:rgba(255, 255, 255, 0.72);border-bottom-left-radius:24px;border-bottom-right-radius:24px;border-top-left-radius:24px;border-top-right-radius:24px;-webkit-backdrop-filter:blur(6px)">
-                          <div class="framer-1ik0zcq" data-framer-name="<?php echo esc_html(get_field('figma_2_tag') ? get_field('figma_2_tag') : '13k users'); ?>"
+                          <div class="framer-1ik0zcq" data-framer-name="<?php echo esc_attr(get_field('figma_5_tag') ? get_field('figma_5_tag') : '1.4k users'); ?>"
                             style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(30, 30, 30);--framer-paragraph-spacing:0px;transform:none"
                             data-framer-component-type="RichTextContainer">
-                            <p style="--font-selector:SW50ZXItTWVkaXVt;--framer-font-family:"
-                              inter",="" "inter="" placeholder" ,=""
-                              sans-serif;--framer-font-size:11px;--framer-font-weight:500;--framer-letter-spacing:-0.02em;--framer-line-height:14.4px;--framer-text-color:var(--extracted-r6o4lv,=""
-                              rgb(30,="" 30,="" 30))"="" class="framer-text">1.4k users</p>
+                            <p style="--font-selector:SW50ZXItTWVkaXVt;--framer-font-family:&quot;inter&quot;,=&quot;&quot; &quot;inter=&quot;&quot; placeholder&quot;=,&quot;&quot; sans-serif;--framer-font-size:11px;--framer-font-weight:500;--framer-letter-spacing:-0.02em;--framer-line-height:14.4px;--framer-text-color:var(--extracted-r6o4lv, rgb(30, 30, 30))" class="framer-text"><?php echo esc_html(get_field('figma_5_tag') ? get_field('figma_5_tag') : '1.4k users'); ?></p>
                           </div>
                         </div>
                       </div>
@@ -7844,13 +7815,10 @@ get_header();
                           </div>
                         </div>
                       </div>
-                      <div class="framer-1hz5mze" data-framer-name="<?php echo esc_html(get_field('figma_1_title') ? get_field('figma_1_title') : 'iPhone 12 Mockup'); ?>"
+                      <div class="framer-1hz5mze" data-framer-name="<?php echo esc_attr(get_field('figma_5_title') ? get_field('figma_5_title') : 'Trailing cursor prototype'); ?>"
                         style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(30, 30, 30);--framer-paragraph-spacing:0px;transform:none"
                         data-framer-component-type="RichTextContainer">
-                        <p style="--font-selector:SW50ZXItU2VtaUJvbGQ=;--framer-font-family:"
-                          inter",="" "inter="" placeholder" ,=""
-                          sans-serif;--framer-font-size:12px;--framer-font-weight:600;--framer-letter-spacing:-0.02em;--framer-line-height:14.4px;--framer-text-color:var(--extracted-r6o4lv,=""
-                          rgb(30,="" 30,="" 30))"="" class="framer-text">Trailing cursor prototype</p>
+                        <p style="--font-selector:SW50ZXItU2VtaUJvbGQ=;--framer-font-family:&quot;inter&quot;,=&quot;&quot; &quot;inter=&quot;&quot; placeholder&quot;=,&quot;&quot; sans-serif;--framer-font-size:12px;--framer-font-weight:600;--framer-letter-spacing:-0.02em;--framer-line-height:14.4px;--framer-text-color:var(--extracted-r6o4lv, rgb(30, 30, 30))" class="framer-text"><?php echo esc_html(get_field('figma_5_title') ? get_field('figma_5_title') : 'Trailing cursor prototype'); ?></p>
                       </div>
                     </div>
                   </a><!--/$--></div>
@@ -7865,30 +7833,22 @@ get_header();
                     data-framer-name="A brief paragraph about the project, giving an overview of what it was all about and the outcome of the project."
                     style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-paragraph-spacing:0px;transform:none"
                     data-framer-component-type="RichTextContainer">
-                    <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby01MDA=;--framer-font-family:" ibm="" plex=""
-                      mono",=""
-                      monospace;--framer-font-weight:500;--framer-letter-spacing:-0.02em;--framer-line-height:110%"=""
-                      class="framer-text">Figma Community Assets</p>
+                    <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby01MDA=;--framer-font-family:&quot;ibm plex mono&quot;,=&quot;&quot; monospace;--framer-font-weight:500;--framer-letter-spacing:-0.02em;--framer-line-height:110%" class="framer-text"><?php echo esc_html(get_field('figma_note_title') ? get_field('figma_note_title') : 'Figma Community Assets'); ?></p>
                   </div>
                   <div class="framer-1i4ogtg" data-framer-name="Body">
                     <div class="framer-1vx0j2t"
                       data-framer-name="A brief paragraph about the project, giving an overview of what it was all about and the outcome of the project."
                       style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-paragraph-spacing:0px;transform:none"
                       data-framer-component-type="RichTextContainer">
-                      <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby1yZWd1bGFy;--framer-font-family:" ibm="" plex=""
-                        mono",="" monospace;--framer-letter-spacing:-0.02em;--framer-line-height:110%"=""
-                        class="framer-text">My figma community files have helped over 24k people cumulatively. </p>
+                      <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby1yZWd1bGFy;--framer-font-family:&quot;ibm plex mono&quot;,=&quot;&quot; monospace;--framer-letter-spacing:-0.02em;--framer-line-height:110%" class="framer-text"><?php echo esc_html(get_field('figma_note_desc') ? get_field('figma_note_desc') : 'My figma community files have helped over 24k people cumulatively.'); ?></p>
                     </div>
                     <div class="framer-azsman"
                       data-framer-name="A brief paragraph about the project, giving an overview of what it was all about and the outcome of the project."
                       style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-paragraph-spacing:0px;transform:none"
                       data-framer-component-type="RichTextContainer">
-                      <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby1yZWd1bGFy;--framer-font-family:" ibm="" plex=""
-                        mono",=""
-                        monospace;--framer-font-size:12px;--framer-letter-spacing:-0.02em;--framer-line-height:200%;--framer-text-alignment:left"=""
-                        class="framer-text"><!--$--><a class="framer-text framer-styles-preset-1b802gv"
-                          data-styles-preset="FL2FFbtAD" href="https://www.figma.com/@dducdesign" target="_blank"
-                          rel="noopener">Community profile</a><!--/$--></p>
+                      <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby1yZWd1bGFy;--framer-font-family:&quot;ibm plex mono&quot;,=&quot;&quot; monospace;--framer-font-size:12px;--framer-letter-spacing:-0.02em;--framer-line-height:200%;--framer-text-alignment:left" class="framer-text"><!--$--><a class="framer-text framer-styles-preset-1b802gv"
+                          data-styles-preset="FL2FFbtAD" href="<?php echo esc_url(get_field('figma_note_link_url') ? get_field('figma_note_link_url') : 'https://www.figma.com/@dducdesign'); ?>" target="_blank"
+                          rel="noopener"><?php echo esc_html(get_field('figma_note_link_label') ? get_field('figma_note_link_label') : 'Community profile'); ?></a><!--/$--></p>
                     </div>
                   </div>
                 </div>
@@ -7897,18 +7857,17 @@ get_header();
           </div>
         </div>
         <div class="framer-i8f156" data-framer-name="Youtube" id="youtube">
-          <div class="framer-lhujvj">
             <div class="framer-1w0eliy">
               <div class="framer-tapkkz-container">
                 <article
                   style="position:relative;width:100%;height:100%;border-radius:12px;transform:unset;cursor:pointer;overflow:hidden"
                   role="presentation">
                   <div
-                    style="position:absolute;top:0;left:0;height:100%;width:100%;background:center / cover url(<?php echo get_template_directory_uri(); ?>/template-html/images/cQHZtIfx9Uuu.webp) no-repeat">
+                    style="position:absolute;top:0;left:0;height:100%;width:100%;background:center / cover url(<?php echo get_field('yt_1_image') ? esc_url(get_field('yt_1_image')) : get_template_directory_uri() . '/template-html/images/cQHZtIfx9Uuu.webp'; ?>) no-repeat">
                   </div><iframe loading="lazy"
                     style="position:absolute;top:0;left:0;height:100%;width:100%;display:none" title="Youtube Video"
                     allow="presentation; fullscreen; accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                    src="https://www.youtube.com/embed/e3h-IkgRYQg?iv_load_policy=3&rel=0&modestbranding=1&playsinline=1&autoplay=0"
+                    src="https://www.youtube.com/embed/<?php echo esc_attr(get_field('yt_1_video_id') ? get_field('yt_1_video_id') : 'e3h-IkgRYQg'); ?>?iv_load_policy=3&rel=0&modestbranding=1&playsinline=1&autoplay=0"
                     frameborder="0"></iframe><button aria-label="Play"
                     style="position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:68px;height:48px;padding:0;border:none;background:transparent;cursor:pointer"><svg
                       height="100%" version="1.1" viewBox="0 0 68 48" width="100%">
@@ -7926,11 +7885,11 @@ get_header();
                   style="position:relative;width:100%;height:100%;border-radius:12px;transform:unset;cursor:pointer;overflow:hidden"
                   role="presentation">
                   <div
-                    style="position:absolute;top:0;left:0;height:100%;width:100%;background:center / cover url(<?php echo get_template_directory_uri(); ?>/template-html/images/tGn46RQKTCIm.webp) no-repeat">
+                    style="position:absolute;top:0;left:0;height:100%;width:100%;background:center / cover url(<?php echo get_field('yt_2_image') ? esc_url(get_field('yt_2_image')) : get_template_directory_uri() . '/template-html/images/tGn46RQKTCIm.webp'; ?>) no-repeat">
                   </div><iframe loading="lazy"
                     style="position:absolute;top:0;left:0;height:100%;width:100%;display:none" title="Youtube Video"
                     allow="presentation; fullscreen; accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                    src="https://www.youtube.com/embed/wFZ6W-63lrQ?iv_load_policy=3&rel=0&modestbranding=1&playsinline=1&autoplay=0"
+                    src="https://www.youtube.com/embed/<?php echo esc_attr(get_field('yt_2_video_id') ? get_field('yt_2_video_id') : 'wFZ6W-63lrQ'); ?>?iv_load_policy=3&rel=0&modestbranding=1&playsinline=1&autoplay=0"
                     frameborder="0"></iframe><button aria-label="Play"
                     style="position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:68px;height:48px;padding:0;border:none;background:transparent;cursor:pointer"><svg
                       height="100%" version="1.1" viewBox="0 0 68 48" width="100%">
@@ -7950,11 +7909,11 @@ get_header();
                   style="position:relative;width:100%;height:100%;border-radius:12px;transform:unset;cursor:pointer;overflow:hidden"
                   role="presentation">
                   <div
-                    style="position:absolute;top:0;left:0;height:100%;width:100%;background:center / cover url(<?php echo get_template_directory_uri(); ?>/template-html/images/J6s3dUHntNEX.webp) no-repeat">
+                    style="position:absolute;top:0;left:0;height:100%;width:100%;background:center / cover url(<?php echo get_field('yt_3_image') ? esc_url(get_field('yt_3_image')) : get_template_directory_uri() . '/template-html/images/J6s3dUHntNEX.webp'; ?>) no-repeat">
                   </div><iframe loading="lazy"
                     style="position:absolute;top:0;left:0;height:100%;width:100%;display:none" title="Youtube Video"
                     allow="presentation; fullscreen; accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                    src="https://www.youtube.com/embed/_G2fVlp3FzU?iv_load_policy=3&rel=0&modestbranding=1&playsinline=1&autoplay=0"
+                    src="https://www.youtube.com/embed/<?php echo esc_attr(get_field('yt_3_video_id') ? get_field('yt_3_video_id') : '_G2fVlp3FzU'); ?>?iv_load_policy=3&rel=0&modestbranding=1&playsinline=1&autoplay=0"
                     frameborder="0"></iframe><button aria-label="Play"
                     style="position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:68px;height:48px;padding:0;border:none;background:transparent;cursor:pointer"><svg
                       height="100%" version="1.1" viewBox="0 0 68 48" width="100%">
@@ -7972,11 +7931,11 @@ get_header();
                   style="position:relative;width:100%;height:100%;border-radius:12px;transform:unset;cursor:pointer;overflow:hidden"
                   role="presentation">
                   <div
-                    style="position:absolute;top:0;left:0;height:100%;width:100%;background:center / cover url(<?php echo get_template_directory_uri(); ?>/template-html/images/Ctaz7lLxti74.webp) no-repeat">
+                    style="position:absolute;top:0;left:0;height:100%;width:100%;background:center / cover url(<?php echo get_field('yt_4_image') ? esc_url(get_field('yt_4_image')) : get_template_directory_uri() . '/template-html/images/Ctaz7lLxti74.webp'; ?>) no-repeat">
                   </div><iframe loading="lazy"
                     style="position:absolute;top:0;left:0;height:100%;width:100%;display:none" title="Youtube Video"
                     allow="presentation; fullscreen; accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                    src="https://www.youtube.com/embed/PqYNq9ZX-Zo?iv_load_policy=3&rel=0&modestbranding=1&playsinline=1&autoplay=0"
+                    src="https://www.youtube.com/embed/<?php echo esc_attr(get_field('yt_4_video_id') ? get_field('yt_4_video_id') : 'PqYNq9ZX-Zo'); ?>?iv_load_policy=3&rel=0&modestbranding=1&playsinline=1&autoplay=0"
                     frameborder="0"></iframe><button aria-label="Play"
                     style="position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:68px;height:48px;padding:0;border:none;background:transparent;cursor:pointer"><svg
                       height="100%" version="1.1" viewBox="0 0 68 48" width="100%">
@@ -7995,53 +7954,58 @@ get_header();
         <div class="framer-1gee1rw" data-framer-name="3D" id="3d">
           <div class="framer-1d8akol" data-framer-name="Day-5---DNA-1" style="transform:rotate(-3deg)">
             <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-              data-framer-background-image-wrapper="true"><img decoding="async" width="1728" height="972"
-                sizes="(min-width: 1440px) 394px, (min-width: 1200px) and (max-width: 1439px) 394px, (min-width: 810px) and (max-width: 1199px) 394px, (max-width: 809px) 394px"
-                srcset="<?php echo get_template_directory_uri(); ?>/template-html/images/2DT1nYT6ryx4.jpg 512w, <?php echo get_template_directory_uri(); ?>/template-html/images/FxkRAXRQJiTM.jpg 1024w, <?php echo get_template_directory_uri(); ?>/template-html/images/3gca4YOYCRd5.jpg 1728w"
-                src="<?php echo get_template_directory_uri(); ?>/template-html/images/FxkRAXRQJiTM.jpg" alt=""
-                style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover"
-                data-framer-original-sizes="394px"></div>
+              data-framer-background-image-wrapper="true"><?php echo get_work_image_html(
+                'td_1_image',
+                'FxkRAXRQJiTM.jpg',
+                array('512w' => '2DT1nYT6ryx4.jpg', '1024w' => 'FxkRAXRQJiTM.jpg', '1728w' => '3gca4YOYCRd5.jpg'),
+                '394px',
+                '(min-width: 1440px) 394px, (min-width: 1200px) and (max-width: 1439px) 394px, (min-width: 810px) and (max-width: 1199px) 394px, (max-width: 809px) 394px'
+              ); ?></div>
           </div>
           <div class="ssr-variant hidden-1yyu1ju">
             <div class="framer-1lqaakn" data-framer-name="Day-4---Bread-slices" style="transform:rotate(1deg)">
               <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                data-framer-background-image-wrapper="true"><img decoding="async" width="1728" height="972"
-                  sizes="(min-width: 1440px) 374.8867px, (min-width: 1200px) and (max-width: 1439px) 374.8867px, (min-width: 810px) and (max-width: 1199px) 374.8867px, (max-width: 809px) 375px"
-                  srcset="<?php echo get_template_directory_uri(); ?>/template-html/images/6x3bBl6P7jHa.jpg 512w, <?php echo get_template_directory_uri(); ?>/template-html/images/49da8j8X0Vj2.jpg 1024w, <?php echo get_template_directory_uri(); ?>/template-html/images/ZJw9zahMiO8T.jpg 1728w"
-                  src="<?php echo get_template_directory_uri(); ?>/template-html/images/49da8j8X0Vj2.jpg" alt=""
-                  style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover"
-                  data-framer-original-sizes="374.8867px"></div>
+                data-framer-background-image-wrapper="true"><?php echo get_work_image_html(
+                  'td_2_image',
+                  '49da8j8X0Vj2.jpg',
+                  array('512w' => '6x3bBl6P7jHa.jpg', '1024w' => '49da8j8X0Vj2.jpg', '1728w' => 'ZJw9zahMiO8T.jpg'),
+                  '374.8867px',
+                  '(min-width: 1440px) 374.8867px, (min-width: 1200px) and (max-width: 1439px) 374.8867px, (min-width: 810px) and (max-width: 1199px) 374.8867px, (max-width: 809px) 375px'
+                ); ?></div>
             </div>
           </div>
           <div class="ssr-variant hidden-1gnjrk8 hidden-19z6b30 hidden-1qy9qyo">
             <div class="framer-1lqaakn" data-framer-name="Day-4---Bread-slices" style="transform:rotate(1deg)">
               <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                data-framer-background-image-wrapper="true"><img decoding="async" width="1728" height="972"
-                  sizes="(min-width: 1440px) 374.8867px, (min-width: 1200px) and (max-width: 1439px) 374.8867px, (min-width: 810px) and (max-width: 1199px) 374.8867px, (max-width: 809px) 375px"
-                  srcset="<?php echo get_template_directory_uri(); ?>/template-html/images/6x3bBl6P7jHa.jpg 512w, <?php echo get_template_directory_uri(); ?>/template-html/images/49da8j8X0Vj2.jpg 1024w, <?php echo get_template_directory_uri(); ?>/template-html/images/ZJw9zahMiO8T.jpg 1728w"
-                  src="<?php echo get_template_directory_uri(); ?>/template-html/images/49da8j8X0Vj2.jpg" alt=""
-                  style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover"
-                  data-framer-original-sizes="375px"></div>
+                data-framer-background-image-wrapper="true"><?php echo get_work_image_html(
+                  'td_2_image',
+                  '49da8j8X0Vj2.jpg',
+                  array('512w' => '6x3bBl6P7jHa.jpg', '1024w' => '49da8j8X0Vj2.jpg', '1728w' => 'ZJw9zahMiO8T.jpg'),
+                  '375px',
+                  '(min-width: 1440px) 374.8867px, (min-width: 1200px) and (max-width: 1439px) 374.8867px, (min-width: 810px) and (max-width: 1199px) 374.8867px, (max-width: 809px) 375px'
+                ); ?></div>
             </div>
           </div>
           <div class="framer-14pyleg" data-framer-name="Day-3---Pear"
             style="will-change:transform;opacity:1;transform:translateY(-40px) rotate(5deg)">
             <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-              data-framer-background-image-wrapper="true"><img decoding="async" width="1920" height="1080"
-                sizes="(min-width: 1440px) 375px, (min-width: 1200px) and (max-width: 1439px) 375px, (min-width: 810px) and (max-width: 1199px) 375px, (max-width: 809px) 375px"
-                srcset="<?php echo get_template_directory_uri(); ?>/template-html/images/lD4pALWRWd8u.jpg 512w, <?php echo get_template_directory_uri(); ?>/template-html/images/moyzcSKzn2fw.jpg 1024w, <?php echo get_template_directory_uri(); ?>/template-html/images/D6ItEA3pS1hs.jpg 1920w"
-                src="<?php echo get_template_directory_uri(); ?>/template-html/images/D6ItEA3pS1hs.jpg" alt=""
-                style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover"
-                data-framer-original-sizes="375px"></div>
+              data-framer-background-image-wrapper="true"><?php echo get_work_image_html(
+                'td_3_image',
+                'D6ItEA3pS1hs.jpg',
+                array('512w' => 'lD4pALWRWd8u.jpg', '1024w' => 'moyzcSKzn2fw.jpg', '1920w' => 'D6ItEA3pS1hs.jpg'),
+                '375px',
+                '(min-width: 1440px) 375px, (min-width: 1200px) and (max-width: 1439px) 375px, (min-width: 810px) and (max-width: 1199px) 375px, (max-width: 809px) 375px'
+              ); ?></div>
           </div>
           <div class="framer-afwj05" data-framer-name="Day-1---Hot-tea" style="transform:rotate(7deg)">
             <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-              data-framer-background-image-wrapper="true"><img decoding="async" width="1920" height="1080"
-                sizes="(min-width: 1440px) 375px, (min-width: 1200px) and (max-width: 1439px) 375px, (min-width: 810px) and (max-width: 1199px) 375px, (max-width: 809px) 375px"
-                srcset="<?php echo get_template_directory_uri(); ?>/template-html/images/X2RgrgafMh7W.jpg 512w, <?php echo get_template_directory_uri(); ?>/template-html/images/q0lcH6Y7KcD8.jpg 1024w, <?php echo get_template_directory_uri(); ?>/template-html/images/TNNTBB1OYxJC.jpg 1920w"
-                src="<?php echo get_template_directory_uri(); ?>/template-html/images/TNNTBB1OYxJC.jpg" alt=""
-                style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover"
-                data-framer-original-sizes="375px"></div>
+              data-framer-background-image-wrapper="true"><?php echo get_work_image_html(
+                'td_4_image',
+                'TNNTBB1OYxJC.jpg',
+                array('512w' => 'X2RgrgafMh7W.jpg', '1024w' => 'q0lcH6Y7KcD8.jpg', '1920w' => 'TNNTBB1OYxJC.jpg'),
+                '375px',
+                '(min-width: 1440px) 375px, (min-width: 1200px) and (max-width: 1439px) 375px, (min-width: 810px) and (max-width: 1199px) 375px, (max-width: 809px) 375px'
+              ); ?></div>
           </div>
           <div class="framer-1eem1jc-container"
             style="will-change:transform;opacity:1;transform:perspective(1200px) translateY(-70px) translateZ(50px) rotate(-1deg)">
@@ -8052,19 +8016,14 @@ get_header();
                   data-framer-name="A brief paragraph about the project, giving an overview of what it was all about and the outcome of the project."
                   style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-paragraph-spacing:0px;transform:none"
                   data-framer-component-type="RichTextContainer">
-                  <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby01MDA=;--framer-font-family:" ibm="" plex="" mono",=""
-                    monospace;--framer-font-weight:500;--framer-letter-spacing:-0.02em;--framer-line-height:110%"=""
-                    class="framer-text">3D Assets</p>
+                  <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby01MDA=;--framer-font-family:&quot;ibm plex mono&quot;,=&quot;&quot; monospace;--framer-font-weight:500;--framer-letter-spacing:-0.02em;--framer-line-height:110%" class="framer-text"><?php echo esc_html(get_field('td_note_title') ? get_field('td_note_title') : '3D Assets'); ?></p>
                 </div>
                 <div class="framer-1i4ogtg" data-framer-name="Body">
                   <div class="framer-1vx0j2t"
                     data-framer-name="A brief paragraph about the project, giving an overview of what it was all about and the outcome of the project."
                     style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-paragraph-spacing:0px;transform:none"
                     data-framer-component-type="RichTextContainer">
-                    <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby1yZWd1bGFy;--framer-font-family:" ibm="" plex=""
-                      mono",="" monospace;--framer-letter-spacing:-0.02em;--framer-line-height:110%"=""
-                      class="framer-text">I like to experiment with Spline and Blender to craft unique, interactive 3D
-                      assets </p>
+                    <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby1yZWd1bGFy;--framer-font-family:&quot;ibm plex mono&quot;,=&quot;&quot; monospace;--framer-letter-spacing:-0.02em;--framer-line-height:110%" class="framer-text"><?php echo esc_html(get_field('td_note_desc') ? get_field('td_note_desc') : 'I like to experiment with Spline and Blender to craft unique, interactive 3D assets'); ?></p>
                   </div>
                 </div>
               </div>
@@ -8225,20 +8184,14 @@ get_header();
                     data-framer-name="A brief paragraph about the project, giving an overview of what it was all about and the outcome of the project."
                     style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-paragraph-spacing:0px;transform:none"
                     data-framer-component-type="RichTextContainer">
-                    <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby01MDA=;--framer-font-family:" ibm="" plex=""
-                      mono",=""
-                      monospace;--framer-font-weight:500;--framer-letter-spacing:-0.02em;--framer-line-height:110%"=""
-                      class="framer-text">Kompare</p>
+                    <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby01MDA=;--framer-font-family:&quot;ibm plex mono&quot;,=&quot;&quot; monospace;--framer-font-weight:500;--framer-letter-spacing:-0.02em;--framer-line-height:110%" class="framer-text"><?php echo esc_html(get_field('kompare_note_title') ? get_field('kompare_note_title') : 'Kompare'); ?></p>
                   </div>
                   <div class="framer-1i4ogtg" data-framer-name="Body">
                     <div class="framer-1vx0j2t"
                       data-framer-name="A brief paragraph about the project, giving an overview of what it was all about and the outcome of the project."
                       style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-paragraph-spacing:0px;transform:none"
                       data-framer-component-type="RichTextContainer">
-                      <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby1yZWd1bGFy;--framer-font-family:" ibm="" plex=""
-                        mono",="" monospace;--framer-letter-spacing:-0.02em;--framer-line-height:110%"=""
-                        class="framer-text">I got tired of converting currencies, so I built a Chrome Extension with a
-                        friend, to solve this.</p>
+                      <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby1yZWd1bGFy;--framer-font-family:&quot;ibm plex mono&quot;,=&quot;&quot; monospace;--framer-letter-spacing:-0.02em;--framer-line-height:110%" class="framer-text"><?php echo esc_html(get_field('kompare_note_desc') ? get_field('kompare_note_desc') : 'I got tired of converting currencies, so I built a Chrome Extension with a friend, to solve this.'); ?></p>
                     </div>
                   </div>
                 </div>
@@ -8255,20 +8208,14 @@ get_header();
                     data-framer-name="A brief paragraph about the project, giving an overview of what it was all about and the outcome of the project."
                     style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-paragraph-spacing:0px;transform:none"
                     data-framer-component-type="RichTextContainer">
-                    <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby01MDA=;--framer-font-family:" ibm="" plex=""
-                      mono",=""
-                      monospace;--framer-font-weight:500;--framer-letter-spacing:-0.02em;--framer-line-height:110%"=""
-                      class="framer-text">Kompare</p>
+                    <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby01MDA=;--framer-font-family:&quot;ibm plex mono&quot;,=&quot;&quot; monospace;--framer-font-weight:500;--framer-letter-spacing:-0.02em;--framer-line-height:110%" class="framer-text"><?php echo esc_html(get_field('kompare_note_title') ? get_field('kompare_note_title') : 'Kompare'); ?></p>
                   </div>
                   <div class="framer-1i4ogtg" data-framer-name="Body">
                     <div class="framer-1vx0j2t"
                       data-framer-name="A brief paragraph about the project, giving an overview of what it was all about and the outcome of the project."
                       style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-paragraph-spacing:0px;transform:none"
                       data-framer-component-type="RichTextContainer">
-                      <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby1yZWd1bGFy;--framer-font-family:" ibm="" plex=""
-                        mono",="" monospace;--framer-letter-spacing:-0.02em;--framer-line-height:110%"=""
-                        class="framer-text">I got tired of converting currencies, so I built a Chrome Extension with a
-                        friend, to solve this.</p>
+                      <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby1yZWd1bGFy;--framer-font-family:&quot;ibm plex mono&quot;,=&quot;&quot; monospace;--framer-letter-spacing:-0.02em;--framer-line-height:110%" class="framer-text"><?php echo esc_html(get_field('kompare_note_desc') ? get_field('kompare_note_desc') : 'I got tired of converting currencies, so I built a Chrome Extension with a friend, to solve this.'); ?></p>
                     </div>
                   </div>
                 </div>
@@ -8279,17 +8226,18 @@ get_header();
             style="will-change:transform;opacity:1;transform:translateY(40px) rotate(-12deg)"><!--$--><a
               class="framer-KeS3f framer-12w86ae framer-v-12w86ae framer-fbw9bj" data-framer-name="Variant 1"
               style="box-shadow:0px 3.200000047683716px 3.200000047683716px 0px rgba(0, 0, 0, 0.25)"
-              href="https://chromewebstore.google.com/detail/kompare/pghheioicappnlibejncaolgjicphhmi?hl=en-GB&utm_source=ext_sidebar"
+              href="<?php echo esc_url(get_field('kompare_note_link_url') ? get_field('kompare_note_link_url') : 'https://chromewebstore.google.com/detail/kompare/pghheioicappnlibejncaolgjicphhmi?hl=en-GB&amp;utm_source=ext_sidebar'); ?>"
               target="_blank" rel="noopener">
               <div class="framer-12u1m4p" data-border="true" data-framer-name="Flow"
                 style="--border-bottom-width:6px;--border-color:rgb(255, 255, 255);--border-left-width:6px;--border-right-width:6px;--border-style:solid;--border-top-width:6px;border-bottom-left-radius:14.4px;border-bottom-right-radius:14.4px;border-top-left-radius:14.4px;border-top-right-radius:14.4px">
                 <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                  data-framer-background-image-wrapper="true"><img decoding="async"
-                    sizes="(min-width: 1440px) 240px, (min-width: 1200px) and (max-width: 1439px) 240px, (min-width: 810px) and (max-width: 1199px) 240px, (max-width: 809px) 240px"
-                    srcset="<?php echo get_template_directory_uri(); ?>/template-html/images/q8PF1sXgRvxY.jpg 512w, <?php echo get_template_directory_uri(); ?>/template-html/images/372Z2khaNPZh.jpg 1000w" src="<?php echo get_template_directory_uri(); ?>/template-html/images/372Z2khaNPZh.jpg"
-                    alt=""
-                    style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:fill"
-                    data-framer-original-sizes="240px"></div>
+                  data-framer-background-image-wrapper="true"><?php echo get_work_image_html(
+                    'kompare_image',
+                    '372Z2khaNPZh.jpg',
+                    array('512w' => 'q8PF1sXgRvxY.jpg', '1000w' => '372Z2khaNPZh.jpg'),
+                    '240px',
+                    '(min-width: 1440px) 240px, (min-width: 1200px) and (max-width: 1439px) 240px, (min-width: 810px) and (max-width: 1199px) 240px, (max-width: 809px) 240px'
+                  ); ?></div>
               </div>
               <div class="framer-12qdf4l" data-border="true" data-framer-name="Doc title"
                 style="--border-bottom-width:6px;--border-color:rgb(255, 255, 255);--border-left-width:6px;--border-right-width:6px;--border-style:solid;--border-top-width:6px;background-color:rgb(255, 255, 255);border-bottom-left-radius:24px;border-bottom-right-radius:24px;border-top-left-radius:24px;border-top-right-radius:24px">
@@ -8306,13 +8254,10 @@ get_header();
                     </div>
                   </div>
                 </div>
-                <div class="framer-1hz5mze" data-framer-name="<?php echo esc_html(get_field('figma_1_title') ? get_field('figma_1_title') : 'iPhone 12 Mockup'); ?>"
+                <div class="framer-1hz5mze" data-framer-name="<?php echo esc_attr(get_field('kompare_note_link_label') ? get_field('kompare_note_link_label') : 'Kompare on Chrome Store'); ?>"
                   style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(30, 30, 30);--framer-paragraph-spacing:0px;transform:none"
                   data-framer-component-type="RichTextContainer">
-                  <p style="--font-selector:SW50ZXItU2VtaUJvbGQ=;--framer-font-family:"
-                    inter",="" "inter="" placeholder" ,=""
-                    sans-serif;--framer-font-size:12px;--framer-font-weight:600;--framer-letter-spacing:-0.02em;--framer-line-height:14.4px;--framer-text-color:var(--extracted-r6o4lv,=""
-                    rgb(30,="" 30,="" 30))"="" class="framer-text">Kompare on Chrome Store</p>
+                  <p style="--font-selector:SW50ZXItU2VtaUJvbGQ=;--framer-font-family:&quot;inter&quot;,=&quot;&quot; &quot;inter placeholder&quot;=,=&quot;&quot; sans-serif;--framer-font-size:12px;--framer-font-weight:600;--framer-letter-spacing:-0.02em;--framer-line-height:14.4px;--framer-text-color:var(--extracted-r6o4lv, rgb(30, 30, 30))" class="framer-text"><?php echo esc_html(get_field('kompare_note_link_label') ? get_field('kompare_note_link_label') : 'Kompare on Chrome Store'); ?></p>
                 </div>
               </div>
             </a><!--/$--></div>
@@ -8322,23 +8267,25 @@ get_header();
           <div class="ssr-variant hidden-1yyu1ju">
             <div class="framer-18sl45j" data-framer-name="Senda-banner-design-from-2011" style="transform:rotate(3deg)">
               <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                data-framer-background-image-wrapper="true"><img decoding="async" width="1508" height="959"
-                  sizes="(min-width: 1440px) 576px, (min-width: 1200px) and (max-width: 1439px) 576px, (min-width: 810px) and (max-width: 1199px) 576px, (max-width: 809px) 386px"
-                  srcset="<?php echo get_template_directory_uri(); ?>/template-html/images/Rdf5m6Dr0R94.jpg 512w, <?php echo get_template_directory_uri(); ?>/template-html/images/XpiktVaZzGUD.jpg 1024w, <?php echo get_template_directory_uri(); ?>/template-html/images/1w8UDCbnT5Mg.jpg 1508w"
-                  src="<?php echo get_template_directory_uri(); ?>/template-html/images/XpiktVaZzGUD.jpg" alt=""
-                  style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover"
-                  data-framer-original-sizes="576px"></div>
+                data-framer-background-image-wrapper="true"><?php echo get_work_image_html(
+                  'archive_img1',
+                  'XpiktVaZzGUD.jpg',
+                  array('512w' => 'Rdf5m6Dr0R94.jpg', '1024w' => 'XpiktVaZzGUD.jpg', '1508w' => '1w8UDCbnT5Mg.jpg'),
+                  '576px',
+                  '(min-width: 1440px) 576px, (min-width: 1200px) and (max-width: 1439px) 576px, (min-width: 810px) and (max-width: 1199px) 576px, (max-width: 809px) 386px'
+                ); ?></div>
             </div>
           </div>
           <div class="ssr-variant hidden-1gnjrk8 hidden-19z6b30 hidden-1qy9qyo">
             <div class="framer-18sl45j" data-framer-name="Senda-banner-design-from-2011" style="transform:rotate(3deg)">
               <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                data-framer-background-image-wrapper="true"><img decoding="async" width="1508" height="959"
-                  sizes="(min-width: 1440px) 576px, (min-width: 1200px) and (max-width: 1439px) 576px, (min-width: 810px) and (max-width: 1199px) 576px, (max-width: 809px) 386px"
-                  srcset="<?php echo get_template_directory_uri(); ?>/template-html/images/Rdf5m6Dr0R94.jpg 512w, <?php echo get_template_directory_uri(); ?>/template-html/images/XpiktVaZzGUD.jpg 1024w, <?php echo get_template_directory_uri(); ?>/template-html/images/1w8UDCbnT5Mg.jpg 1508w"
-                  src="<?php echo get_template_directory_uri(); ?>/template-html/images/XpiktVaZzGUD.jpg" alt=""
-                  style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover"
-                  data-framer-original-sizes="386px"></div>
+                data-framer-background-image-wrapper="true"><?php echo get_work_image_html(
+                  'archive_img1',
+                  'XpiktVaZzGUD.jpg',
+                  array('512w' => 'Rdf5m6Dr0R94.jpg', '1024w' => 'XpiktVaZzGUD.jpg', '1508w' => '1w8UDCbnT5Mg.jpg'),
+                  '386px',
+                  '(min-width: 1440px) 576px, (min-width: 1200px) and (max-width: 1439px) 576px, (min-width: 810px) and (max-width: 1199px) 576px, (max-width: 809px) 386px'
+                ); ?></div>
             </div>
           </div>
           <div class="ssr-variant hidden-1yyu1ju">
@@ -8346,8 +8293,7 @@ get_header();
               data-framer-name="I empower brands and businesses to help people all over the world, through impactful design. Welcome to a day in my life. Hire my team at DDUC Design Studio"
               style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;will-change:transform;opacity:1;transform:none"
               data-framer-component-type="RichTextContainer">
-              <p class="framer-text framer-styles-preset-zgylgy" data-styles-preset="TGXasoRDm">One of my earliest
-                design projects from 2011.</p>
+              <p class="framer-text framer-styles-preset-zgylgy" data-styles-preset="TGXasoRDm"><?php echo esc_html(get_field('archive_cap1') ? get_field('archive_cap1') : 'One of my earliest design projects from 2011.'); ?></p>
             </div>
           </div>
           <div class="ssr-variant hidden-1gnjrk8 hidden-19z6b30 hidden-1qy9qyo">
@@ -8355,8 +8301,7 @@ get_header();
               data-framer-name="I empower brands and businesses to help people all over the world, through impactful design. Welcome to a day in my life. Hire my team at DDUC Design Studio"
               style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;opacity:1;transform:none"
               data-framer-component-type="RichTextContainer">
-              <p class="framer-text framer-styles-preset-zgylgy" data-styles-preset="TGXasoRDm">One of my earliest
-                design projects from 2011.</p>
+              <p class="framer-text framer-styles-preset-zgylgy" data-styles-preset="TGXasoRDm"><?php echo esc_html(get_field('archive_cap1') ? get_field('archive_cap1') : 'One of my earliest design projects from 2011.'); ?></p>
             </div>
           </div>
           <div class="ssr-variant hidden-1yyu1ju">
@@ -8364,8 +8309,7 @@ get_header();
               data-framer-name="I empower brands and businesses to help people all over the world, through impactful design. Welcome to a day in my life. Hire my team at DDUC Design Studio"
               style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;will-change:transform;opacity:1;transform:none"
               data-framer-component-type="RichTextContainer">
-              <p class="framer-text framer-styles-preset-zgylgy" data-styles-preset="TGXasoRDm">Me at my first design
-                job in 2011.</p>
+              <p class="framer-text framer-styles-preset-zgylgy" data-styles-preset="TGXasoRDm"><?php echo esc_html(get_field('archive_cap2') ? get_field('archive_cap2') : 'Me at my first design job in 2011.'); ?></p>
             </div>
           </div>
           <div class="ssr-variant hidden-1gnjrk8 hidden-19z6b30 hidden-1qy9qyo">
@@ -8373,107 +8317,113 @@ get_header();
               data-framer-name="I empower brands and businesses to help people all over the world, through impactful design. Welcome to a day in my life. Hire my team at DDUC Design Studio"
               style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;opacity:1;transform:none"
               data-framer-component-type="RichTextContainer">
-              <p class="framer-text framer-styles-preset-zgylgy" data-styles-preset="TGXasoRDm">Me at my first design
-                job in 2011.</p>
+              <p class="framer-text framer-styles-preset-zgylgy" data-styles-preset="TGXasoRDm"><?php echo esc_html(get_field('archive_cap2') ? get_field('archive_cap2') : 'Me at my first design job in 2011.'); ?></p>
             </div>
           </div>
           <div class="framer-19jjig9"
             data-framer-name="I empower brands and businesses to help people all over the world, through impactful design. Welcome to a day in my life. Hire my team at DDUC Design Studio"
             style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;will-change:transform;opacity:1;transform:none"
             data-framer-component-type="RichTextContainer">
-            <p class="framer-text framer-styles-preset-zgylgy" data-styles-preset="TGXasoRDm">Fine Baby song art, 2012.
-            </p>
+            <p class="framer-text framer-styles-preset-zgylgy" data-styles-preset="TGXasoRDm"><?php echo esc_html(get_field('archive_cap3') ? get_field('archive_cap3') : 'Fine Baby song art, 2012.'); ?></p>
           </div>
           <div class="ssr-variant hidden-1yyu1ju">
             <div class="framer-7nktt8" data-framer-name="Chimdi-at-work---2011">
               <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                data-framer-background-image-wrapper="true"><img decoding="async" width="1513" height="1026"
-                  sizes="(min-width: 1440px) 574px, (min-width: 1200px) and (max-width: 1439px) 574px, (min-width: 810px) and (max-width: 1199px) 574px, (max-width: 809px) 391px"
-                  srcset="<?php echo get_template_directory_uri(); ?>/template-html/images/uu2YFHQn6rnW.jpg 512w, <?php echo get_template_directory_uri(); ?>/template-html/images/7ENmFnr77YL7.jpg 1024w, <?php echo get_template_directory_uri(); ?>/template-html/images/o1S6R9aQwFtV.jpg 1513w"
-                  src="<?php echo get_template_directory_uri(); ?>/template-html/images/7ENmFnr77YL7.jpg" alt=""
-                  style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover"
-                  data-framer-original-sizes="574px"></div>
+                data-framer-background-image-wrapper="true"><?php echo get_work_image_html(
+                  'archive_img2',
+                  '7ENmFnr77YL7.jpg',
+                  array('512w' => 'uu2YFHQn6rnW.jpg', '1024w' => '7ENmFnr77YL7.jpg', '1513w' => 'o1S6R9aQwFtV.jpg'),
+                  '574px',
+                  '(min-width: 1440px) 574px, (min-width: 1200px) and (max-width: 1439px) 574px, (min-width: 810px) and (max-width: 1199px) 574px, (max-width: 809px) 391px'
+                ); ?></div>
             </div>
           </div>
           <div class="ssr-variant hidden-1gnjrk8 hidden-19z6b30 hidden-1qy9qyo">
             <div class="framer-7nktt8" data-framer-name="Chimdi-at-work---2011">
               <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                data-framer-background-image-wrapper="true"><img decoding="async" width="1513" height="1026"
-                  sizes="(min-width: 1440px) 574px, (min-width: 1200px) and (max-width: 1439px) 574px, (min-width: 810px) and (max-width: 1199px) 574px, (max-width: 809px) 391px"
-                  srcset="<?php echo get_template_directory_uri(); ?>/template-html/images/uu2YFHQn6rnW.jpg 512w, <?php echo get_template_directory_uri(); ?>/template-html/images/7ENmFnr77YL7.jpg 1024w, <?php echo get_template_directory_uri(); ?>/template-html/images/o1S6R9aQwFtV.jpg 1513w"
-                  src="<?php echo get_template_directory_uri(); ?>/template-html/images/7ENmFnr77YL7.jpg" alt=""
-                  style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover"
-                  data-framer-original-sizes="391px"></div>
+                data-framer-background-image-wrapper="true"><?php echo get_work_image_html(
+                  'archive_img2',
+                  '7ENmFnr77YL7.jpg',
+                  array('512w' => 'uu2YFHQn6rnW.jpg', '1024w' => '7ENmFnr77YL7.jpg', '1513w' => 'o1S6R9aQwFtV.jpg'),
+                  '391px',
+                  '(min-width: 1440px) 574px, (min-width: 1200px) and (max-width: 1439px) 574px, (min-width: 810px) and (max-width: 1199px) 574px, (max-width: 809px) 391px'
+                ); ?></div>
             </div>
           </div>
           <div class="ssr-variant hidden-1yyu1ju">
             <div class="framer-1xxy9jv" data-framer-name="Fine-baby-2012"
               style="will-change:transform;opacity:1;transform:translateY(-80px) rotate(54deg)">
               <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                data-framer-background-image-wrapper="true"><img decoding="async" width="1083" height="1003"
-                  sizes="(min-width: 1440px) 494px, (min-width: 1200px) and (max-width: 1439px) 494px, (min-width: 810px) and (max-width: 1199px) 494px, (max-width: 809px) 380px"
-                  srcset="<?php echo get_template_directory_uri(); ?>/template-html/images/ezXeulfPWqpG.png 512w, <?php echo get_template_directory_uri(); ?>/template-html/images/msnYHOz8UeRf.png 1024w, <?php echo get_template_directory_uri(); ?>/template-html/images/9HB1xgH08pDg.png 1083w"
-                  src="<?php echo get_template_directory_uri(); ?>/template-html/images/msnYHOz8UeRf.png" alt=""
-                  style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover"
-                  data-framer-original-sizes="494px"></div>
+                data-framer-background-image-wrapper="true"><?php echo get_work_image_html(
+                  'archive_img3',
+                  'msnYHOz8UeRf.png',
+                  array('512w' => 'ezXeulfPWqpG.png', '1024w' => 'msnYHOz8UeRf.png', '1083w' => '9HB1xgH08pDg.png'),
+                  '494px',
+                  '(min-width: 1440px) 494px, (min-width: 1200px) and (max-width: 1439px) 494px, (min-width: 810px) and (max-width: 1199px) 494px, (max-width: 809px) 380px'
+                ); ?></div>
             </div>
           </div>
           <div class="ssr-variant hidden-1gnjrk8 hidden-19z6b30 hidden-1qy9qyo">
             <div class="framer-1xxy9jv" data-framer-name="Fine-baby-2012"
               style="will-change:transform;opacity:1;transform:translateY(-80px) rotate(14deg)">
               <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                data-framer-background-image-wrapper="true"><img decoding="async" width="1083" height="1003"
-                  sizes="(min-width: 1440px) 494px, (min-width: 1200px) and (max-width: 1439px) 494px, (min-width: 810px) and (max-width: 1199px) 494px, (max-width: 809px) 380px"
-                  srcset="<?php echo get_template_directory_uri(); ?>/template-html/images/ezXeulfPWqpG.png 512w, <?php echo get_template_directory_uri(); ?>/template-html/images/msnYHOz8UeRf.png 1024w, <?php echo get_template_directory_uri(); ?>/template-html/images/9HB1xgH08pDg.png 1083w"
-                  src="<?php echo get_template_directory_uri(); ?>/template-html/images/msnYHOz8UeRf.png" alt=""
-                  style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover"
-                  data-framer-original-sizes="380px"></div>
+                data-framer-background-image-wrapper="true"><?php echo get_work_image_html(
+                  'archive_img3',
+                  'msnYHOz8UeRf.png',
+                  array('512w' => 'ezXeulfPWqpG.png', '1024w' => 'msnYHOz8UeRf.png', '1083w' => '9HB1xgH08pDg.png'),
+                  '380px',
+                  '(min-width: 1440px) 494px, (min-width: 1200px) and (max-width: 1439px) 494px, (min-width: 810px) and (max-width: 1199px) 494px, (max-width: 809px) 380px'
+                ); ?></div>
             </div>
           </div>
           <div class="ssr-variant hidden-1yyu1ju">
             <div class="framer-1m5dtbh" data-framer-name="Jasmine-mag-2017" style="transform:rotate(-1deg)">
               <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                data-framer-background-image-wrapper="true"><img decoding="async" width="1030" height="1166"
-                  sizes="(min-width: 1440px) 517px, (min-width: 1200px) and (max-width: 1439px) 517px, (min-width: 810px) and (max-width: 1199px) 517px, (max-width: 809px) 334px"
-                  srcset="<?php echo get_template_directory_uri(); ?>/template-html/images/8Ah4A9l6VImP.jpg 904w, <?php echo get_template_directory_uri(); ?>/template-html/images/twb7sUjiwvoG.jpg 1030w" src="<?php echo get_template_directory_uri(); ?>/template-html/images/8Ah4A9l6VImP.jpg"
-                  alt=""
-                  style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover"
-                  data-framer-original-sizes="517px"></div>
+                data-framer-background-image-wrapper="true"><?php echo get_work_image_html(
+                  'archive_img4',
+                  '8Ah4A9l6VImP.jpg',
+                  array('904w' => '8Ah4A9l6VImP.jpg', '1030w' => 'twb7sUjiwvoG.jpg'),
+                  '517px',
+                  '(min-width: 1440px) 517px, (min-width: 1200px) and (max-width: 1439px) 517px, (min-width: 810px) and (max-width: 1199px) 517px, (max-width: 809px) 334px'
+                ); ?></div>
             </div>
           </div>
           <div class="ssr-variant hidden-1gnjrk8 hidden-19z6b30 hidden-1qy9qyo">
             <div class="framer-1m5dtbh" data-framer-name="Jasmine-mag-2017" style="transform:rotate(-1deg)">
               <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                data-framer-background-image-wrapper="true"><img decoding="async" width="1030" height="1166"
-                  sizes="(min-width: 1440px) 517px, (min-width: 1200px) and (max-width: 1439px) 517px, (min-width: 810px) and (max-width: 1199px) 517px, (max-width: 809px) 334px"
-                  srcset="<?php echo get_template_directory_uri(); ?>/template-html/images/8Ah4A9l6VImP.jpg 904w, <?php echo get_template_directory_uri(); ?>/template-html/images/twb7sUjiwvoG.jpg 1030w" src="<?php echo get_template_directory_uri(); ?>/template-html/images/8Ah4A9l6VImP.jpg"
-                  alt=""
-                  style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover"
-                  data-framer-original-sizes="334px"></div>
+                data-framer-background-image-wrapper="true"><?php echo get_work_image_html(
+                  'archive_img4',
+                  '8Ah4A9l6VImP.jpg',
+                  array('904w' => '8Ah4A9l6VImP.jpg', '1030w' => 'twb7sUjiwvoG.jpg'),
+                  '334px',
+                  '(min-width: 1440px) 517px, (min-width: 1200px) and (max-width: 1439px) 517px, (min-width: 810px) and (max-width: 1199px) 517px, (max-width: 809px) 334px'
+                ); ?></div>
             </div>
           </div>
           <div class="ssr-variant hidden-1yyu1ju">
             <div class="framer-15ns3l3" data-framer-name="Lofi-sketch-2016" id="lofi"
               style="will-change:transform;opacity:1;transform:translateY(-140px) rotate(4deg)">
               <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                data-framer-background-image-wrapper="true"><img decoding="async" width="961" height="1315"
-                  sizes="(min-width: 1440px) 402px, (min-width: 1200px) and (max-width: 1439px) 402px, (min-width: 810px) and (max-width: 1199px) 402px, (max-width: 809px) 338px"
-                  srcset="<?php echo get_template_directory_uri(); ?>/template-html/images/9KaLoEHjPGk0.png 748w, <?php echo get_template_directory_uri(); ?>/template-html/images/Qev1uCeeT5dI.png 961w" src="<?php echo get_template_directory_uri(); ?>/template-html/images/9KaLoEHjPGk0.png"
-                  alt=""
-                  style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover"
-                  data-framer-original-sizes="402px"></div>
+                data-framer-background-image-wrapper="true"><?php echo get_work_image_html(
+                  'archive_img5',
+                  '9KaLoEHjPGk0.png',
+                  array('748w' => '9KaLoEHjPGk0.png', '961w' => 'Qev1uCeeT5dI.png'),
+                  '402px',
+                  '(min-width: 1440px) 402px, (min-width: 1200px) and (max-width: 1439px) 402px, (min-width: 810px) and (max-width: 1199px) 402px, (max-width: 809px) 338px'
+                ); ?></div>
             </div>
           </div>
           <div class="ssr-variant hidden-1gnjrk8 hidden-19z6b30 hidden-1qy9qyo">
             <div class="framer-15ns3l3" data-framer-name="Lofi-sketch-2016" id="lofi"
               style="will-change:transform;opacity:1;transform:translateY(-140px) rotate(4deg)">
               <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                data-framer-background-image-wrapper="true"><img decoding="async" width="961" height="1315"
-                  sizes="(min-width: 1440px) 402px, (min-width: 1200px) and (max-width: 1439px) 402px, (min-width: 810px) and (max-width: 1199px) 402px, (max-width: 809px) 338px"
-                  srcset="<?php echo get_template_directory_uri(); ?>/template-html/images/9KaLoEHjPGk0.png 748w, <?php echo get_template_directory_uri(); ?>/template-html/images/Qev1uCeeT5dI.png 961w" src="<?php echo get_template_directory_uri(); ?>/template-html/images/9KaLoEHjPGk0.png"
-                  alt=""
-                  style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover"
-                  data-framer-original-sizes="338px"></div>
+                data-framer-background-image-wrapper="true"><?php echo get_work_image_html(
+                  'archive_img5',
+                  '9KaLoEHjPGk0.png',
+                  array('748w' => '9KaLoEHjPGk0.png', '961w' => 'Qev1uCeeT5dI.png'),
+                  '338px',
+                  '(min-width: 1440px) 402px, (min-width: 1200px) and (max-width: 1439px) 402px, (min-width: 810px) and (max-width: 1199px) 402px, (max-width: 809px) 338px'
+                ); ?></div>
             </div>
           </div>
           <div class="framer-1ieq6hm-container"
@@ -8485,18 +8435,14 @@ get_header();
                   data-framer-name="A brief paragraph about the project, giving an overview of what it was all about and the outcome of the project."
                   style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-paragraph-spacing:0px;transform:none"
                   data-framer-component-type="RichTextContainer">
-                  <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby01MDA=;--framer-font-family:" ibm="" plex="" mono",=""
-                    monospace;--framer-font-weight:500;--framer-letter-spacing:-0.02em;--framer-line-height:110%"=""
-                    class="framer-text">Archive</p>
+                  <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby01MDA=;--framer-font-family:&quot;ibm plex mono&quot;,=&quot;&quot; monospace;--framer-font-weight:500;--framer-letter-spacing:-0.02em;--framer-line-height:110%" class="framer-text"><?php echo esc_html(get_field('archive_note_title') ? get_field('archive_note_title') : 'Archive'); ?></p>
                 </div>
                 <div class="framer-1i4ogtg" data-framer-name="Body">
                   <div class="framer-1vx0j2t"
                     data-framer-name="A brief paragraph about the project, giving an overview of what it was all about and the outcome of the project."
                     style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-paragraph-spacing:0px;transform:none"
                     data-framer-component-type="RichTextContainer">
-                    <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby1yZWd1bGFy;--framer-font-family:" ibm="" plex=""
-                      mono",="" monospace;--framer-letter-spacing:-0.02em;--framer-line-height:110%"=""
-                      class="framer-text">These are some of my work from way back, and a bit of history as well.</p>
+                    <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby1yZWd1bGFy;--framer-font-family:&quot;ibm plex mono&quot;,=&quot;&quot; monospace;--framer-letter-spacing:-0.02em;--framer-line-height:110%" class="framer-text"><?php echo esc_html(get_field('archive_note_desc') ? get_field('archive_note_desc') : 'These are some of my work from way back, and a bit of history as well.'); ?></p>
                   </div>
                 </div>
               </div>
@@ -8506,14 +8452,13 @@ get_header();
             data-framer-name="I empower brands and businesses to help people all over the world, through impactful design. Welcome to a day in my life. Hire my team at DDUC Design Studio"
             style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;will-change:transform;opacity:1;transform:none"
             data-framer-component-type="RichTextContainer">
-            <p class="framer-text framer-styles-preset-zgylgy" data-styles-preset="TGXasoRDm">Jasmine Magazine, 2017</p>
+            <p class="framer-text framer-styles-preset-zgylgy" data-styles-preset="TGXasoRDm"><?php echo esc_html(get_field('archive_cap4') ? get_field('archive_cap4') : 'Jasmine Magazine, 2017'); ?></p>
           </div>
           <div class="framer-1n1yl8w"
             data-framer-name="I empower brands and businesses to help people all over the world, through impactful design. Welcome to a day in my life. Hire my team at DDUC Design Studio"
             style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;will-change:transform;opacity:1;transform:none"
             data-framer-component-type="RichTextContainer">
-            <p class="framer-text framer-styles-preset-zgylgy" data-styles-preset="TGXasoRDm">My first low fidelity
-              sketch, done at a UX intro class by Google, 2016</p>
+            <p class="framer-text framer-styles-preset-zgylgy" data-styles-preset="TGXasoRDm"><?php echo esc_html(get_field('archive_cap5') ? get_field('archive_cap5') : 'My first low fidelity sketch, done at a UX intro class by Google, 2016'); ?></p>
           </div>
           <div class="framer-8hdnsa hidden-19z6b30 hidden-1gnjrk8 hidden-1qy9qyo" data-framer-name="mac nav opacity"
             id="mac-nav-opacity"></div>
@@ -8597,10 +8542,7 @@ get_header();
               data-framer-name="I empower brands and businesses to help people all over the world, through impactful design. Welcome to a day in my life. Hire my team at DDUC Design Studio"
               style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;will-change:transform;opacity:1;transform:none"
               data-framer-component-type="RichTextContainer">
-              <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby1yZWd1bGFy;--framer-font-family:" ibm="" plex="" mono",=""
-                monospace;--framer-font-size:24px;--framer-letter-spacing:-0.02em;--framer-line-height:140%;--framer-text-color:var(--token-0db76fa3-5c12-40f5-a370-6a95ecdcce54,=""
-                rgb(255,="" 255,="" 255))"="" class="framer-text">I like to unwind by watching something good on Netflix
-                with my family – if we ever actually get past searching for what to watch.</p>
+              <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby1yZWd1bGFy;--framer-font-family:&quot;ibm plex mono&quot;,=&quot;&quot; monospace;--framer-font-size:24px;--framer-letter-spacing:-0.02em;--framer-line-height:140%;--framer-text-color:var(--token-0db76fa3-5c12-40f5-a370-6a95ecdcce54, rgb(255, 255, 255))" class="framer-text"><?php echo esc_html(get_field('fun_text') ? get_field('fun_text') : 'I like to unwind by watching something good on Netflix with my family – if we ever actually get past searching for what to watch.'); ?></p>
             </div>
           </div>
           <div class="framer-q4nw43 hidden-19z6b30 hidden-1gnjrk8 hidden-1qy9qyo" id="netflix-trigger"></div>
@@ -8623,73 +8565,199 @@ get_header();
               <div class="framer-137fl9c" data-framer-name="Stuff I’ve written"
                 style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
                 data-framer-component-type="RichTextContainer">
-                <p class="framer-text framer-styles-preset-jkiu41" data-styles-preset="FQr82RRHc">Stuff I’ve written</p>
+                <p class="framer-text framer-styles-preset-jkiu41" data-styles-preset="FQr82RRHc">Stuff I've written</p>
               </div>
               <div class="framer-2q3j6o" data-framer-name="List of articles">
-                <div class="framer-5lykch">
-<?php
-$args = array(
-    'post_type' => 'post',
-    'posts_per_page' => 3,
-    'post_status' => 'publish'
-);
-$writings_query = new WP_Query($args);
-if ($writings_query->have_posts()) :
-    while ($writings_query->have_posts()) : $writings_query->the_post();
-        $permalink = get_permalink();
-        $title = get_the_title();
-        $date = get_the_date('M j, Y');
-?>
-        <!-- Desktop Variant -->
-        <div class="ssr-variant hidden-1yyu1ju">
-          <a class="framer-1n5nvsu framer-r69dc3" href="<?php echo esc_url($permalink); ?>">
-            <div class="framer-a43fjo" data-framer-name="Text">
-              <div class="framer-104wxzk" data-framer-name="Title" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
-                <p class="framer-text framer-styles-preset-zpsx1w" data-styles-preset="M9HHBD47G" style="--framer-text-color:var(--token-0db76fa3-5c12-40f5-a370-6a95ecdcce54, rgb(255, 255, 255))">
-                  <?php echo esc_html($title); ?></p>
-              </div>
-              <div class="framer-qz687n">
-                <div class="framer-u4kcb7" data-framer-name="Date" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
-                  <p class="framer-text framer-styles-preset-fdr9wb" data-styles-preset="azcaLFgVN" style="--framer-text-color:rgb(136, 136, 136)"><?php echo esc_html($date); ?></p>
-                </div>
-                <div class="framer-w6uhiu" data-framer-name="Star" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
-                  <p class="framer-text framer-styles-preset-fdr9wb" data-styles-preset="azcaLFgVN">✦</p>
-                </div>
-                <div class="framer-1okbkuw" data-framer-name="Title" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
-                  <p class="framer-text framer-styles-preset-fdr9wb" data-styles-preset="azcaLFgVN" style="--framer-text-color:rgb(136, 136, 136)">Writing</p>
-                </div>
-              </div>
-            </div>
-          </a>
-        </div>
-        <!-- Mobile Variant -->
-        <div class="ssr-variant hidden-1gnjrk8 hidden-19z6b30 hidden-1qy9qyo">
-          <a class="framer-1n5nvsu framer-r69dc3" href="<?php echo esc_url($permalink); ?>" data-border="true">
-            <div class="framer-a43fjo" data-framer-name="Text">
-              <div class="framer-104wxzk" data-framer-name="Title" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
-                <p class="framer-text framer-styles-preset-zpsx1w" data-styles-preset="M9HHBD47G" style="--framer-text-color:var(--token-0db76fa3-5c12-40f5-a370-6a95ecdcce54, rgb(255, 255, 255))">
-                  <?php echo esc_html($title); ?></p>
-              </div>
-              <div class="framer-qz687n">
-                <div class="framer-u4kcb7" data-framer-name="Date" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
-                  <p class="framer-text framer-styles-preset-fdr9wb" data-styles-preset="azcaLFgVN" style="--framer-text-color:rgb(136, 136, 136)"><?php echo esc_html($date); ?></p>
-                </div>
-                <div class="framer-w6uhiu" data-framer-name="Star" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
-                  <p class="framer-text framer-styles-preset-fdr9wb" data-styles-preset="azcaLFgVN">✦</p>
-                </div>
-                <div class="framer-1okbkuw" data-framer-name="Title" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none" data-framer-component-type="RichTextContainer">
-                  <p class="framer-text framer-styles-preset-fdr9wb" data-styles-preset="azcaLFgVN" style="--framer-text-color:rgb(136, 136, 136)">Writing</p>
-                </div>
-              </div>
-            </div>
-          </a>
-        </div>
-<?php
-    endwhile;
-    wp_reset_postdata();
-endif;
-?>
-</div><!--$--><a class="framer-gxnxmz framer-r69dc3" data-framer-name="CTA" href="<?php echo esc_url(home_url('/writings')); ?>"">
+                <div class="framer-5lykch" id="writings-list-container"><!--$--><!--$-->
+                  <div class="ssr-variant hidden-1yyu1ju"><a class="framer-1n5nvsu framer-r69dc3"
+                      href="./writings/year-planning-template">
+                      <div class="framer-a43fjo" data-framer-name="Text">
+                        <div class="framer-104wxzk" data-framer-name="Title"
+                          style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
+                          data-framer-component-type="RichTextContainer">
+                          <p class="framer-text framer-styles-preset-zpsx1w" data-styles-preset="M9HHBD47G"
+                            style="--framer-text-color:var(--token-0db76fa3-5c12-40f5-a370-6a95ecdcce54, rgb(255, 255, 255))">
+                            Year planning template</p>
+                        </div>
+                        <div class="framer-qz687n">
+                          <div class="framer-u4kcb7" data-framer-name="Date"
+                            style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
+                            data-framer-component-type="RichTextContainer">
+                            <p class="framer-text framer-styles-preset-fdr9wb" data-styles-preset="azcaLFgVN"
+                              style="--framer-text-color:rgb(136, 136, 136)">Jan 14, 2025</p>
+                          </div>
+                          <div class="framer-w6uhiu" data-framer-name="Star"
+                            style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
+                            data-framer-component-type="RichTextContainer">
+                            <p class="framer-text framer-styles-preset-fdr9wb" data-styles-preset="azcaLFgVN">✦</p>
+                          </div>
+                          <div class="framer-1okbkuw" data-framer-name="Title"
+                            style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
+                            data-framer-component-type="RichTextContainer">
+                            <p class="framer-text framer-styles-preset-fdr9wb" data-styles-preset="azcaLFgVN"
+                              style="--framer-text-color:rgb(136, 136, 136)">Title</p>
+                          </div>
+                        </div>
+                      </div>
+                    </a></div>
+                  <div class="ssr-variant hidden-1gnjrk8 hidden-19z6b30 hidden-1qy9qyo"><a
+                      class="framer-1n5nvsu framer-r69dc3" href="./writings/year-planning-template" data-border="true">
+                      <div class="framer-a43fjo" data-framer-name="Text">
+                        <div class="framer-104wxzk" data-framer-name="Title"
+                          style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
+                          data-framer-component-type="RichTextContainer">
+                          <p class="framer-text framer-styles-preset-zpsx1w" data-styles-preset="M9HHBD47G"
+                            style="--framer-text-color:var(--token-0db76fa3-5c12-40f5-a370-6a95ecdcce54, rgb(255, 255, 255))">
+                            Year planning template</p>
+                        </div>
+                        <div class="framer-qz687n">
+                          <div class="framer-u4kcb7" data-framer-name="Date"
+                            style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
+                            data-framer-component-type="RichTextContainer">
+                            <p class="framer-text framer-styles-preset-fdr9wb" data-styles-preset="azcaLFgVN"
+                              style="--framer-text-color:rgb(136, 136, 136)">Jan 14, 2025</p>
+                          </div>
+                          <div class="framer-w6uhiu" data-framer-name="Star"
+                            style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
+                            data-framer-component-type="RichTextContainer">
+                            <p class="framer-text framer-styles-preset-fdr9wb" data-styles-preset="azcaLFgVN">✦</p>
+                          </div>
+                          <div class="framer-1okbkuw" data-framer-name="Title"
+                            style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
+                            data-framer-component-type="RichTextContainer">
+                            <p class="framer-text framer-styles-preset-fdr9wb" data-styles-preset="azcaLFgVN"
+                              style="--framer-text-color:rgb(136, 136, 136)">Title</p>
+                          </div>
+                        </div>
+                      </div>
+                    </a></div><!--/$--><!--$-->
+                  <div class="ssr-variant hidden-1yyu1ju"><a class="framer-1n5nvsu framer-r69dc3"
+                      href="./writings/race-to-agi">
+                      <div class="framer-a43fjo" data-framer-name="Text">
+                        <div class="framer-104wxzk" data-framer-name="Title"
+                          style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
+                          data-framer-component-type="RichTextContainer">
+                          <p class="framer-text framer-styles-preset-zpsx1w" data-styles-preset="M9HHBD47G"
+                            style="--framer-text-color:var(--token-0db76fa3-5c12-40f5-a370-6a95ecdcce54, rgb(255, 255, 255))">
+                            An observer's perspective on the race to AGI</p>
+                        </div>
+                        <div class="framer-qz687n">
+                          <div class="framer-u4kcb7" data-framer-name="Date"
+                            style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
+                            data-framer-component-type="RichTextContainer">
+                            <p class="framer-text framer-styles-preset-fdr9wb" data-styles-preset="azcaLFgVN"
+                              style="--framer-text-color:rgb(136, 136, 136)">Jan 5, 2025</p>
+                          </div>
+                          <div class="framer-w6uhiu" data-framer-name="Star"
+                            style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
+                            data-framer-component-type="RichTextContainer">
+                            <p class="framer-text framer-styles-preset-fdr9wb" data-styles-preset="azcaLFgVN">✦</p>
+                          </div>
+                          <div class="framer-1okbkuw" data-framer-name="Title"
+                            style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
+                            data-framer-component-type="RichTextContainer">
+                            <p class="framer-text framer-styles-preset-fdr9wb" data-styles-preset="azcaLFgVN"
+                              style="--framer-text-color:rgb(136, 136, 136)">Title</p>
+                          </div>
+                        </div>
+                      </div>
+                    </a></div>
+                  <div class="ssr-variant hidden-1gnjrk8 hidden-19z6b30 hidden-1qy9qyo"><a
+                      class="framer-1n5nvsu framer-r69dc3" href="./writings/race-to-agi" data-border="true">
+                      <div class="framer-a43fjo" data-framer-name="Text">
+                        <div class="framer-104wxzk" data-framer-name="Title"
+                          style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
+                          data-framer-component-type="RichTextContainer">
+                          <p class="framer-text framer-styles-preset-zpsx1w" data-styles-preset="M9HHBD47G"
+                            style="--framer-text-color:var(--token-0db76fa3-5c12-40f5-a370-6a95ecdcce54, rgb(255, 255, 255))">
+                            An observer's perspective on the race to AGI</p>
+                        </div>
+                        <div class="framer-qz687n">
+                          <div class="framer-u4kcb7" data-framer-name="Date"
+                            style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
+                            data-framer-component-type="RichTextContainer">
+                            <p class="framer-text framer-styles-preset-fdr9wb" data-styles-preset="azcaLFgVN"
+                              style="--framer-text-color:rgb(136, 136, 136)">Jan 5, 2025</p>
+                          </div>
+                          <div class="framer-w6uhiu" data-framer-name="Star"
+                            style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
+                            data-framer-component-type="RichTextContainer">
+                            <p class="framer-text framer-styles-preset-fdr9wb" data-styles-preset="azcaLFgVN">✦</p>
+                          </div>
+                          <div class="framer-1okbkuw" data-framer-name="Title"
+                            style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
+                            data-framer-component-type="RichTextContainer">
+                            <p class="framer-text framer-styles-preset-fdr9wb" data-styles-preset="azcaLFgVN"
+                              style="--framer-text-color:rgb(136, 136, 136)">Title</p>
+                          </div>
+                        </div>
+                      </div>
+                    </a></div><!--/$--><!--$-->
+                  <div class="ssr-variant hidden-1yyu1ju"><a class="framer-1n5nvsu framer-r69dc3"
+                      href="./writings/user-delight-is-not-a-gimmick">
+                      <div class="framer-a43fjo" data-framer-name="Text">
+                        <div class="framer-104wxzk" data-framer-name="Title"
+                          style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
+                          data-framer-component-type="RichTextContainer">
+                          <p class="framer-text framer-styles-preset-zpsx1w" data-styles-preset="M9HHBD47G"
+                            style="--framer-text-color:var(--token-0db76fa3-5c12-40f5-a370-6a95ecdcce54, rgb(255, 255, 255))">
+                            User delight is not a gimmick</p>
+                        </div>
+                        <div class="framer-qz687n">
+                          <div class="framer-u4kcb7" data-framer-name="Date"
+                            style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
+                            data-framer-component-type="RichTextContainer">
+                            <p class="framer-text framer-styles-preset-fdr9wb" data-styles-preset="azcaLFgVN"
+                              style="--framer-text-color:rgb(136, 136, 136)">Dec 29, 2024</p>
+                          </div>
+                          <div class="framer-w6uhiu" data-framer-name="Star"
+                            style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
+                            data-framer-component-type="RichTextContainer">
+                            <p class="framer-text framer-styles-preset-fdr9wb" data-styles-preset="azcaLFgVN">✦</p>
+                          </div>
+                          <div class="framer-1okbkuw" data-framer-name="Title"
+                            style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
+                            data-framer-component-type="RichTextContainer">
+                            <p class="framer-text framer-styles-preset-fdr9wb" data-styles-preset="azcaLFgVN"
+                              style="--framer-text-color:rgb(136, 136, 136)">Title</p>
+                          </div>
+                        </div>
+                      </div>
+                    </a></div>
+                  <div class="ssr-variant hidden-1gnjrk8 hidden-19z6b30 hidden-1qy9qyo"><a
+                      class="framer-1n5nvsu framer-r69dc3" href="./writings/user-delight-is-not-a-gimmick"
+                      data-border="true">
+                      <div class="framer-a43fjo" data-framer-name="Text">
+                        <div class="framer-104wxzk" data-framer-name="Title"
+                          style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
+                          data-framer-component-type="RichTextContainer">
+                          <p class="framer-text framer-styles-preset-zpsx1w" data-styles-preset="M9HHBD47G"
+                            style="--framer-text-color:var(--token-0db76fa3-5c12-40f5-a370-6a95ecdcce54, rgb(255, 255, 255))">
+                            User delight is not a gimmick</p>
+                        </div>
+                        <div class="framer-qz687n">
+                          <div class="framer-u4kcb7" data-framer-name="Date"
+                            style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
+                            data-framer-component-type="RichTextContainer">
+                            <p class="framer-text framer-styles-preset-fdr9wb" data-styles-preset="azcaLFgVN"
+                              style="--framer-text-color:rgb(136, 136, 136)">Dec 29, 2024</p>
+                          </div>
+                          <div class="framer-w6uhiu" data-framer-name="Star"
+                            style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
+                            data-framer-component-type="RichTextContainer">
+                            <p class="framer-text framer-styles-preset-fdr9wb" data-styles-preset="azcaLFgVN">✦</p>
+                          </div>
+                          <div class="framer-1okbkuw" data-framer-name="Title"
+                            style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
+                            data-framer-component-type="RichTextContainer">
+                            <p class="framer-text framer-styles-preset-fdr9wb" data-styles-preset="azcaLFgVN"
+                              style="--framer-text-color:rgb(136, 136, 136)">Title</p>
+                          </div>
+                        </div>
+                      </div>
+                    </a></div><!--/$-->
+                  <div class="framer-6t3cnu-container"></div><!--/$-->
+                </div><!--$--><a class="framer-gxnxmz framer-r69dc3" data-framer-name="CTA" href="./writings">
                   <div class="framer-1xm34jy" data-framer-name="See all articles"
                     style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
                     data-framer-component-type="RichTextContainer">
@@ -8720,28 +8788,235 @@ endif;
             </div>
           </div>
         </div>
-        <div class="framer-rls821" data-framer-name="Thanks" id="thanks">
+        <?php else : ?>
+        <!-- Custom Writings Page View -->
+        <div class="framer-1c32q52 custom-writings-view">
+          <h1 class="writings-page-title">WRITINGS</h1>
+          
+          <div class="writings-page-list">
+            <?php
+            $paged = (get_query_var('paged')) ? get_query_var('paged') : 1;
+            $args = array(
+                'post_type' => 'post',
+                'posts_per_page' => 5,
+                'paged' => $paged,
+                'post_status' => 'publish'
+            );
+            $query = new WP_Query($args);
+            if ($query->have_posts()) :
+                global $wp_query;
+                $original_query = $wp_query;
+                $wp_query = $query;
+
+                while ($query->have_posts()) : $query->the_post();
+                    $categories = get_the_category();
+            ?>
+                    <div class="writing-page-card">
+                        <a href="<?php the_permalink(); ?>" class="writing-page-card-link">
+                            <div class="writing-page-card-img">
+                                <?php if (has_post_thumbnail()) : ?>
+                                    <?php the_post_thumbnail('medium'); ?>
+                                <?php else : ?>
+                                    <img src="<?php echo get_template_directory_uri(); ?>/template-html/images/cLszzKGqZxO2.png" alt="">
+                                <?php endif; ?>
+                            </div>
+                            <div class="writing-page-card-info">
+                                <div class="writing-page-card-header">
+                                    <h2 class="writing-page-card-title"><?php the_title(); ?></h2>
+                                    <span class="writing-page-card-date"><?php echo get_the_date('M j, Y'); ?></span>
+                                </div>
+                                <div class="writing-page-card-categories">
+                                    <?php foreach ($categories as $cat) : ?>
+                                        <span class="category-page-badge"><?php echo esc_html($cat->name); ?></span>
+                                    <?php endforeach; ?>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+            <?php
+                endwhile;
+            ?>
+                <!-- Pagination -->
+                <div class="writings-page-pagination">
+                    <div class="pagination-page-prev"><?php previous_posts_link('&larr; Prev'); ?></div>
+                    <div class="pagination-page-next"><?php next_posts_link('Next &rarr;', $query->max_num_pages); ?></div>
+                </div>
+            <?php
+                $wp_query = $original_query;
+                wp_reset_postdata();
+            else :
+            ?>
+                <p class="no-posts-found">No articles found.</p>
+            <?php endif; ?>
+          </div>
+        </div>
+
+        <style>
+        .custom-writings-view {
+            padding: 120px 20px 60px 20px !important;
+            max-width: 900px !important;
+            margin: 0 auto !important;
+            color: #fff !important;
+            min-height: 80vh !important;
+            position: relative !important;
+            z-index: 2 !important;
+            box-sizing: border-box !important;
+        }
+        .writings-page-title {
+            font-family: "technology regular", "technology regular placeholder", sans-serif !important;
+            font-size: 100px !important;
+            color: #fff !important;
+            margin-top: 0 !important;
+            margin-bottom: 50px !important;
+            letter-spacing: 0.05em !important;
+            line-height: 1em !important;
+        }
+        .writings-page-list {
+            display: flex !important;
+            flex-direction: column !important;
+            gap: 32px !important;
+        }
+        .writing-page-card {
+            border-bottom: 1px dashed rgba(255, 255, 255, 0.15) !important;
+            padding-bottom: 32px !important;
+        }
+        .writing-page-card:last-child {
+            border-bottom: none !important;
+        }
+        .writing-page-card-link {
+            display: flex !important;
+            gap: 32px !important;
+            text-decoration: none !important;
+            color: inherit !important;
+        }
+        .writing-page-card-img {
+            width: 200px !important;
+            height: 125px !important;
+            border-radius: 8px !important;
+            overflow: hidden !important;
+            flex-shrink: 0 !important;
+            border: 1px solid rgba(255, 255, 255, 0.1) !important;
+        }
+        .writing-page-card-img img {
+            width: 100% !important;
+            height: 100% !important;
+            object-fit: cover !important;
+        }
+        .writing-page-card-info {
+            flex-grow: 1 !important;
+            display: flex !important;
+            flex-direction: column !important;
+            justify-content: space-between !important;
+        }
+        .writing-page-card-header {
+            display: flex !important;
+            justify-content: space-between !important;
+            align-items: flex-start !important;
+            gap: 20px !important;
+        }
+        .writing-page-card-title {
+            font-size: 22px !important;
+            font-weight: 500 !important;
+            color: #fff !important;
+            margin: 0 !important;
+            transition: color 0.3s !important;
+            font-family: 'Inter', sans-serif !important;
+            line-height: 1.3em !important;
+        }
+        .writing-page-card-link:hover .writing-page-card-title {
+            color: rgba(255, 255, 255, 0.7) !important;
+        }
+        .writing-page-card-date {
+            font-size: 14px !important;
+            color: rgb(136, 136, 136) !important;
+            font-family: 'IBM Plex Mono', monospace !important;
+            white-space: nowrap !important;
+        }
+        .writing-page-card-categories {
+            display: flex !important;
+            gap: 12px !important;
+            margin-top: 15px !important;
+        }
+        .category-page-badge {
+            font-size: 12px !important;
+            color: rgba(255, 255, 255, 0.7) !important;
+            background-color: rgba(255, 255, 255, 0.08) !important;
+            padding: 4px 12px !important;
+            border-radius: 4px !important;
+            font-family: 'IBM Plex Mono', monospace !important;
+        }
+        .writings-page-pagination {
+            display: flex !important;
+            justify-content: space-between !important;
+            margin-top: 20px !important;
+            font-family: 'IBM Plex Mono', monospace !important;
+        }
+        .writings-page-pagination a {
+            color: #fff !important;
+            text-decoration: none !important;
+            border: 1px solid rgba(255, 255, 255, 0.2) !important;
+            padding: 8px 16px !important;
+            border-radius: 4px !important;
+            transition: background-color 0.3s !important;
+        }
+        .writings-page-pagination a:hover {
+            background-color: rgba(255, 255, 255, 0.1) !important;
+        }
+        .no-posts-found {
+            color: rgba(255, 255, 255, 0.5) !important;
+            font-style: italic !important;
+        }
+
+        /* Desktop Sidebar Offset */
+        @media (min-width: 1200px) {
+            .custom-writings-view {
+                padding-left: 280px !important;
+                max-width: 1100px !important;
+            }
+        }
+        @media (min-width: 810px) and (max-width: 1199px) {
+            .custom-writings-view {
+                padding-left: 240px !important;
+                max-width: 900px !important;
+            }
+        }
+        @media (max-width: 809px) {
+            .custom-writings-view {
+                padding: 120px 15px 40px 15px !important;
+            }
+            .writings-page-title {
+                font-size: 60px !important;
+                margin-bottom: 30px !important;
+            }
+            .writing-page-card-link {
+                flex-direction: column !important;
+                gap: 15px !important;
+            }
+            .writing-page-card-img {
+                width: 100% !important;
+                height: 180px !important;
+            }
+        }
+        </style>
+      <?php endif; ?>
+      <div class="framer-rls821" data-framer-name="Thanks" id="thanks">
           <div class="framer-ky6we1" data-framer-name="End">
             <div class="framer-16w0llo"
               data-framer-name="I empower brands and businesses to help people all over the world, through impactful design. Welcome to a day in my life. Hire my team at DDUC Design Studio"
               style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
               data-framer-component-type="RichTextContainer">
-              <p class="framer-text framer-styles-preset-jkiu41" data-styles-preset="FQr82RRHc">Thanks for hanging with
-                me today. I love meeting people and working on cool projects, so reach out! 👇</p>
+              <p class="framer-text framer-styles-preset-jkiu41" data-styles-preset="FQr82RRHc"><?php echo esc_html(get_field('thanks_text') ? get_field('thanks_text') : 'Thanks for hanging with me today. I love meeting people and working on cool projects, so reach out! 👇'); ?></p>
             </div>
             <div class="framer-50j7et" data-framer-name="Contact" id="contact">
               <div class="framer-12pqbzg">
                 <div class="framer-77snc6-container"><!--$--><a
                     class="framer-WsMhh framer-Skp5t framer-1q1q0iv framer-v-1q1q0iv framer-17eiga4"
                     data-framer-name="Variant 1" data-highlight="true"
-                    href="https://calendly.com/chimdi-dducdesign/30min" target="_blank" rel="noopener">
+                    href="<?php echo esc_url(get_field('book_call_url') ? get_field('book_call_url') : 'https://calendly.com/chimdi-dducdesign/30min'); ?>" target="_blank" rel="noopener">
                     <div class="framer-12tfwbf" data-framer-name="Book call"
                       style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(255, 255, 255);--framer-paragraph-spacing:0px;transform:none"
                       data-framer-component-type="RichTextContainer">
-                      <p style="--font-selector:Q1VTVE9NO1RlY2hub2xvZ3kgSXRhbGlj;--framer-font-family:" technology=""
-                        italic",="" "technology="" italic="" placeholder" ,=""
-                        sans-serif;--framer-font-size:72px;--framer-line-height:94%;--framer-text-alignment:center;--framer-text-color:var(--extracted-r6o4lv,=""
-                        rgb(255,="" 255,="" 255))"="" class="framer-text">Book call</p>
+                      <p style="--font-selector:Q1VTVE9NO1RlY2hub2xvZ3kgSXRhbGlj;--framer-font-family:&quot;technology italic&quot;,=&quot;&quot; &quot;technology italic placeholder&quot;=,=&quot;&quot; sans-serif;--framer-font-size:72px;--framer-line-height:94%;--framer-text-alignment:center;--framer-text-color:var(--extracted-r6o4lv, rgb(255, 255, 255))" class="framer-text"><?php echo esc_html(get_field('book_call_title') ? get_field('book_call_title') : 'Book call'); ?></p>
                     </div>
                     <div class="framer-1cjpy2l" data-framer-name="Lower text">
                       <div class="framer-149xp3w" data-framer-name="Line-wrap">
@@ -8753,7 +9028,7 @@ endif;
                         style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-paragraph-spacing:0px;transform:none"
                         data-framer-component-type="RichTextContainer">
                         <p class="framer-text framer-styles-preset-zgylgy" data-styles-preset="TGXasoRDm"
-                          style="--framer-text-alignment:center">Via Calendly</p>
+                          style="--framer-text-alignment:center"><?php echo esc_html(get_field('book_call_sub') ? get_field('book_call_sub') : 'Via Calendly'); ?></p>
                       </div>
                     </div>
                   </a><!--/$--></div>
@@ -8764,10 +9039,7 @@ endif;
                       <div class="framer-1s6bpbp" data-framer-name="Book call"
                         style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(255, 255, 255);--framer-paragraph-spacing:0px;transform:none"
                         data-framer-component-type="RichTextContainer">
-                        <p style="--font-selector:Q1VTVE9NO1RlY2hub2xvZ3kgSXRhbGlj;--framer-font-family:" technology=""
-                          italic",="" "technology="" italic="" placeholder" ,=""
-                          sans-serif;--framer-font-size:72px;--framer-line-height:94%;--framer-text-alignment:center;--framer-text-color:var(--extracted-r6o4lv,=""
-                          rgb(255,="" 255,="" 255))"="" class="framer-text">Copy email</p>
+                        <p style="--font-selector:Q1VTVE9NO1RlY2hub2xvZ3kgSXRhbGlj;--framer-font-family:&quot;technology italic&quot;,=&quot;&quot; &quot;technology italic placeholder&quot;=,=&quot;&quot; sans-serif;--framer-font-size:72px;--framer-line-height:94%;--framer-text-alignment:center;--framer-text-color:var(--extracted-r6o4lv, rgb(255, 255, 255))" class="framer-text"><?php echo esc_html(get_field('copy_email_title') ? get_field('copy_email_title') : 'Copy email'); ?></p>
                       </div>
                     </div>
                     <div class="framer-lvyl7y" data-framer-name="Lower text">
@@ -8780,7 +9052,7 @@ endif;
                         style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--framer-paragraph-spacing:0px;transform:none"
                         data-framer-component-type="RichTextContainer">
                         <p class="framer-text framer-styles-preset-zgylgy" data-styles-preset="TGXasoRDm"
-                          style="--framer-text-alignment:center">chimdi@dducdesign.com</p>
+                          style="--framer-text-alignment:center"><?php echo esc_html(get_field('copy_email_address') ? get_field('copy_email_address') : 'chimdi@dducdesign.com'); ?></p>
                       </div>
                     </div>
                   </a><!--/$--></div>
@@ -8793,16 +9065,13 @@ endif;
                 <div class="framer-1kkuku4">
                   <div class="framer-1ehxngf-container"><!--$--><a
                       class="framer-zVVvo framer-lx7xx4 framer-v-lx7xx4 framer-1a1nw9n" data-framer-name="Default"
-                      data-highlight="true" style="--bol5b:8px 0px 8px 0px" href="https://www.youtube.com/@chimdiBAM"
+                      data-highlight="true" style="--bol5b:8px 0px 8px 0px" href="<?php echo esc_url(get_field('social_youtube') ? get_field('social_youtube') : 'https://www.youtube.com/@chimdiBAM'); ?>"
                       target="_blank" rel="noopener">
                       <div class="framer-124pdhu">
                         <div class="framer-j67l55"
                           style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(255, 255, 255);--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.64;transform:none"
                           data-framer-component-type="RichTextContainer">
-                          <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby1yZWd1bGFy;--framer-font-family:" ibm=""
-                            plex="" mono",=""
-                            monospace;--framer-font-size:12px;--framer-line-height:1em;--framer-text-color:var(--extracted-r6o4lv,=""
-                            rgb(255,="" 255,="" 255))"="" class="framer-text">Youtube</p>
+                          <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby1yZWd1bGFy;--framer-font-family:&quot;ibm plex mono&quot;,=&quot;&quot; monospace;--framer-font-size:12px;--framer-line-height:1em;--framer-text-color:var(--extracted-r6o4lv, rgb(255, 255, 255))" class="framer-text">Youtube</p>
                         </div>
                         <div class="framer-1xbz2qw" data-framer-name="Underline"
                           style="background-color:rgb(255, 255, 255);opacity:0"></div>
@@ -8811,15 +9080,12 @@ endif;
                   <div class="framer-k0qq24-container"><!--$--><a
                       class="framer-zVVvo framer-lx7xx4 framer-v-lx7xx4 framer-1a1nw9n" data-framer-name="Default"
                       data-highlight="true" style="--bol5b:8px 0px 8px 0px"
-                      href="https://www.linkedin.com/in/chimdindu-chimereze-20670468/" target="_blank" rel="noopener">
+                      href="<?php echo esc_url(get_field('social_linkedin') ? get_field('social_linkedin') : 'https://www.linkedin.com/in/chimdindu-chimereze-20670468/'); ?>" target="_blank" rel="noopener">
                       <div class="framer-124pdhu">
                         <div class="framer-j67l55"
                           style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(255, 255, 255);--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.64;transform:none"
                           data-framer-component-type="RichTextContainer">
-                          <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby1yZWd1bGFy;--framer-font-family:" ibm=""
-                            plex="" mono",=""
-                            monospace;--framer-font-size:12px;--framer-line-height:1em;--framer-text-color:var(--extracted-r6o4lv,=""
-                            rgb(255,="" 255,="" 255))"="" class="framer-text">Linkedin</p>
+                          <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby1yZWd1bGFy;--framer-font-family:&quot;ibm plex mono&quot;,=&quot;&quot; monospace;--framer-font-size:12px;--framer-line-height:1em;--framer-text-color:var(--extracted-r6o4lv, rgb(255, 255, 255))" class="framer-text">Linkedin</p>
                         </div>
                         <div class="framer-1xbz2qw" data-framer-name="Underline"
                           style="background-color:rgb(255, 255, 255);opacity:0"></div>
@@ -8827,16 +9093,13 @@ endif;
                     </a><!--/$--></div>
                   <div class="framer-23kk1m-container"><!--$--><a
                       class="framer-zVVvo framer-lx7xx4 framer-v-lx7xx4 framer-1a1nw9n" data-framer-name="Default"
-                      data-highlight="true" style="--bol5b:8px 0px 8px 0px" href="https://x.com/ChimdiBAM"
+                      data-highlight="true" style="--bol5b:8px 0px 8px 0px" href="<?php echo esc_url(get_field('social_twitter') ? get_field('social_twitter') : 'https://x.com/ChimdiBAM'); ?>"
                       target="_blank" rel="noopener">
                       <div class="framer-124pdhu">
                         <div class="framer-j67l55"
                           style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(255, 255, 255);--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.64;transform:none"
                           data-framer-component-type="RichTextContainer">
-                          <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby1yZWd1bGFy;--framer-font-family:" ibm=""
-                            plex="" mono",=""
-                            monospace;--framer-font-size:12px;--framer-line-height:1em;--framer-text-color:var(--extracted-r6o4lv,=""
-                            rgb(255,="" 255,="" 255))"="" class="framer-text">Twitter (X)</p>
+                          <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby1yZWd1bGFy;--framer-font-family:&quot;ibm plex mono&quot;,=&quot;&quot; monospace;--framer-font-size:12px;--framer-line-height:1em;--framer-text-color:var(--extracted-r6o4lv, rgb(255, 255, 255))" class="framer-text">Twitter (X)</p>
                         </div>
                         <div class="framer-1xbz2qw" data-framer-name="Underline"
                           style="background-color:rgb(255, 255, 255);opacity:0"></div>
@@ -8846,16 +9109,13 @@ endif;
                 <div class="framer-1s2eyeb">
                   <div class="framer-1weeald-container"><!--$--><a
                       class="framer-zVVvo framer-lx7xx4 framer-v-lx7xx4 framer-1a1nw9n" data-framer-name="Default"
-                      data-highlight="true" style="--bol5b:8px 0px 8px 0px" href="https://www.instagram.com/chimdibam/"
+                      data-highlight="true" style="--bol5b:8px 0px 8px 0px" href="<?php echo esc_url(get_field('social_instagram') ? get_field('social_instagram') : 'https://www.instagram.com/chimdibam/'); ?>"
                       target="_blank" rel="noopener">
                       <div class="framer-124pdhu">
                         <div class="framer-j67l55"
                           style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(255, 255, 255);--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.64;transform:none"
                           data-framer-component-type="RichTextContainer">
-                          <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby1yZWd1bGFy;--framer-font-family:" ibm=""
-                            plex="" mono",=""
-                            monospace;--framer-font-size:12px;--framer-line-height:1em;--framer-text-color:var(--extracted-r6o4lv,=""
-                            rgb(255,="" 255,="" 255))"="" class="framer-text">Instagram</p>
+                          <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby1yZWd1bGFy;--framer-font-family:&quot;ibm plex mono&quot;,=&quot;&quot; monospace;--framer-font-size:12px;--framer-line-height:1em;--framer-text-color:var(--extracted-r6o4lv, rgb(255, 255, 255))" class="framer-text">Instagram</p>
                         </div>
                         <div class="framer-1xbz2qw" data-framer-name="Underline"
                           style="background-color:rgb(255, 255, 255);opacity:0"></div>
@@ -8864,15 +9124,12 @@ endif;
                   <div class="framer-14bv3r0-container"><!--$--><a
                       class="framer-zVVvo framer-lx7xx4 framer-v-lx7xx4 framer-1a1nw9n" data-framer-name="Default"
                       data-highlight="true" style="--bol5b:8px 0px 8px 0px"
-                      href="https://www.tiktok.com/@chimdibam?_t=ZM-8t1caHT83Qz&_r=1" target="_blank" rel="noopener">
+                      href="<?php echo esc_url(get_field('social_tiktok') ? get_field('social_tiktok') : 'https://www.tiktok.com/@chimdibam?_t=ZM-8t1caHT83Qz&_r=1'); ?>" target="_blank" rel="noopener">
                       <div class="framer-124pdhu">
                         <div class="framer-j67l55"
                           style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(255, 255, 255);--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;opacity:0.64;transform:none"
                           data-framer-component-type="RichTextContainer">
-                          <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby1yZWd1bGFy;--framer-font-family:" ibm=""
-                            plex="" mono",=""
-                            monospace;--framer-font-size:12px;--framer-line-height:1em;--framer-text-color:var(--extracted-r6o4lv,=""
-                            rgb(255,="" 255,="" 255))"="" class="framer-text">TikTok</p>
+                          <p style="--font-selector:R0Y7SUJNIFBsZXggTW9uby1yZWd1bGFy;--framer-font-family:&quot;ibm plex mono&quot;,=&quot;&quot; monospace;--framer-font-size:12px;--framer-line-height:1em;--framer-text-color:var(--extracted-r6o4lv, rgb(255, 255, 255))" class="framer-text">TikTok</p>
                         </div>
                         <div class="framer-1xbz2qw" data-framer-name="Underline"
                           style="background-color:rgb(255, 255, 255);opacity:0"></div>
@@ -8899,8 +9156,7 @@ endif;
                       data-framer-component-type="RichTextContainer">
                       <p class="framer-text framer-styles-preset-fdr9wb" data-styles-preset="azcaLFgVN"
                         style="--framer-text-color:var(--extracted-r6o4lv, var(--token-0db76fa3-5c12-40f5-a370-6a95ecdcce54, rgb(255, 255, 255)))">
-                        © Chimdindu Chimereze, 2025 ✦ Designed and built by DDUC Design Studio ✦ With love from 🇳🇬 ✦
-                        Video credit - Mark Yacoub on Youtube ✦</p>
+                        <?php echo esc_html(get_field('copyright_text') ? get_field('copyright_text') : '© Chimdindu Chimereze, 2025 ✦ Designed and built by DDUC Design Studio ✦ With love from 🇳🇬 ✦ Video credit - Mark Yacoub on Youtube ✦'); ?></p>
                     </div>
                   </div>
                 </div>
@@ -8932,45 +9188,211 @@ endif;
   <script
     data-framer-appear-animation="no-preference">(() => { function c(i, o, m) { if (window.__framer_disable_appear_effects_optimization__ || typeof animator > "u") return; let e = { detail: { bg: document.hidden } }; requestAnimationFrame(() => { let a = "framer-appear-start"; performance.mark(a, e), animator.animateAppearEffects(JSON.parse(window.__framer__appearAnimationsContent.text), (s, p, d) => { let t = document.querySelector(s); if (t) for (let [r, f] of Object.entries(p)) animator.startOptimizedAppearAnimation(t, r, f, d[r]) }, i, o, m && window.matchMedia("(prefers-reduced-motion:reduce)").matches === !0, animator.getActiveVariantHash(JSON.parse(window.__framer__breakpoints.text))); let n = "framer-appear-end"; performance.mark(n, e), performance.measure("framer-appear", { start: a, end: n, detail: e.detail }) }) } return c })()("data-framer-appear-id", "__Appear_Animation_Transform__", false)</script>
   <script>(() => { function d(e) { let t = Date.prototype.toLocaleString, o = Date.prototype.toLocaleDateString; t && (Date.prototype.toLocaleString = function (r, n) { let i = s(this, r, n); return u(e.current.Date.toLocaleString, i, () => t.call(this, r, n)) }), o && (Date.prototype.toLocaleDateString = function (r, n) { let i = s(this, r, n); return u(e.current.Date.toLocaleDateString, i, () => o.call(this, r, n)) }); let a = Object.getOwnPropertyDescriptors(Intl.DateTimeFormat.prototype).format.get, c = Intl.DateTimeFormat.prototype.formatRange, b = Intl.DateTimeFormat.prototype.formatToParts, D = Intl.DateTimeFormat.prototype.formatRangeToParts; a && Object.defineProperty(Intl.DateTimeFormat.prototype, "format", { get() { function m(r) { let n = p(this), i = s(r, n); return u(e.current.DateTimeFormat.format, i, () => a.call(this)(r)) } return m.bind(this) } }), c && (Intl.DateTimeFormat.prototype.formatRange = function (r, n) { let i = p(this), l = s(r, n, i); return u(e.current.DateTimeFormat.formatRange, l, () => c.call(this, r, n)) }), b && (Intl.DateTimeFormat.prototype.formatToParts = function (r) { let n = p(this), i = s(r, n); return u(e.current.DateTimeFormat.formatToParts, i, () => b.call(this, r)).map(g) }), D && (Intl.DateTimeFormat.prototype.formatRangeToParts = function (r, n) { let i = p(this), l = s(r, n, i); return u(e.current.DateTimeFormat.formatRangeToParts, l, () => D.call(this, r, n)).map(g) }); let y = Number.prototype.toLocaleString; y && (Number.prototype.toLocaleString = function (r, n) { let i = s(this, r, n); return u(e.current.Number.toLocaleString, i, () => y.call(this, r, n)) }); let h = Object.getOwnPropertyDescriptors(Intl.NumberFormat.prototype).format.get, F = Intl.NumberFormat.prototype.formatRange, T = Intl.NumberFormat.prototype.formatToParts, I = Intl.NumberFormat.prototype.formatRangeToParts; h && Object.defineProperty(Intl.NumberFormat.prototype, "format", { get() { function m(r) { let n = f(this), i = s(r, n); return u(e.current.NumberFormat.format, i, () => h.call(this)(r)) } return m.bind(this) } }), F && (Intl.NumberFormat.prototype.formatRange = function (r, n) { let i = f(this), l = s(r, n, i); return u(e.current.NumberFormat.formatRange, l, () => F.call(this, r, n)) }), T && (Intl.NumberFormat.prototype.formatToParts = function (r) { let n = f(this), i = s(r, n); return u(e.current.NumberFormat.formatToParts, i, () => T.call(this, r)).map(g) }), I && (Intl.NumberFormat.prototype.formatRangeToParts = function (r, n) { let i = f(this), l = s(r, n, i); return u(e.current.NumberFormat.formatRangeToParts, l, () => I.call(this, r, n)).map(g) }) } function P(e, t) { return typeof t == "bigint" ? `${t}n` : t instanceof Date ? t.getTime() : t } function s(...e) { let t = JSON.stringify(e, P), o = 0; for (let a = 0; a < t.length; a++)o += t.charCodeAt(a), o += o << 10, o ^= o >> 6; return o += o << 3, o ^= o >> 11, o += o << 15, o >>> 0 } function u(e, t, o) { let a = e[t]; if (typeof a < "u") return a; let c = o(); return e[t] = c, c } function g(e) { return { ...e } } function p(e) { let t = e.resolvedOptions(), o = { locale: t.locale, calendar: t.calendar, numberingSystem: t.numberingSystem, timeZone: t.timeZone, hour12: t.hour12, weekday: t.weekday, era: t.era, year: t.year, month: t.month, day: t.day, hour: t.hour, minute: t.minute, second: t.second, timeZoneName: t.timeZoneName }; for (let a in t) a in o || (o[a] = t[a]); return o } function f(e) { let t = e.resolvedOptions(), o = { locale: t.locale, numberingSystem: t.numberingSystem, style: t.style, currency: t.currency, currencyDisplay: t.currencyDisplay, currencySign: t.currencySign, unit: t.unit, unitDisplay: t.unitDisplay, minimumIntegerDigits: t.minimumIntegerDigits, minimumFractionDigits: t.minimumFractionDigits, maximumFractionDigits: t.maximumFractionDigits, minimumSignificantDigits: t.minimumSignificantDigits, maximumSignificantDigits: t.maximumSignificantDigits, useGrouping: t.useGrouping === !0 ? "auto" : t.useGrouping, notation: t.notation, compactDisplay: t.compactDisplay, signDisplay: t.signDisplay, roundingIncrement: t.roundingIncrement ?? 1, roundingMode: t.roundingMode ?? "halfExpand", roundingPriority: t.roundingPriority ?? "auto", trailingZeroDisplay: t.trailingZeroDisplay ?? "auto" }; for (let a in t) a in o || (o[a] = t[a]); return o } return d })()({ current: { "Date": { "toLocaleString": { "661911685": "Dec 29, 2024", "687947843": "Jan 14, 2025", "4032385608": "Jan 5, 2025" }, "toLocaleDateString": {} }, "DateTimeFormat": { "format": {}, "formatRange": {}, "formatToParts": {}, "formatRangeToParts": {} }, "Number": { "toLocaleString": {} }, "NumberFormat": { "format": {}, "formatRange": {}, "formatToParts": {}, "formatRangeToParts": {} } } })</script>
-  <link rel="modulepreload" fetchpriority="low"
-    href="https://framerusercontent.com/sites/4UmRyxF27oORnIJjQN6Nje/chunk-GOHJTBKB.mjs">
-  <link rel="modulepreload" fetchpriority="low"
-    href="https://framerusercontent.com/sites/4UmRyxF27oORnIJjQN6Nje/chunk-OPJ5POGS.mjs">
-  <link rel="modulepreload" fetchpriority="low"
-    href="https://framerusercontent.com/sites/4UmRyxF27oORnIJjQN6Nje/chunk-A3IIQ6X3.mjs">
-  <link rel="modulepreload" fetchpriority="low"
-    href="https://framerusercontent.com/sites/4UmRyxF27oORnIJjQN6Nje/chunk-HZL4YIMB.mjs">
-  <link rel="modulepreload" fetchpriority="low"
-    href="https://framerusercontent.com/sites/4UmRyxF27oORnIJjQN6Nje/HKgK2qUTgUfttYELD_qKmldi_Wv3rtaVCd_tpTpk844.NITVTCXS.mjs">
-  <link rel="modulepreload" fetchpriority="low"
-    href="https://framerusercontent.com/sites/4UmRyxF27oORnIJjQN6Nje/chunk-RNQA7ONE.mjs">
-  <link rel="modulepreload" fetchpriority="low"
-    href="https://framerusercontent.com/sites/4UmRyxF27oORnIJjQN6Nje/chunk-Z6MXMYAJ.mjs">
-  <link rel="modulepreload" fetchpriority="low"
-    href="https://framerusercontent.com/sites/4UmRyxF27oORnIJjQN6Nje/chunk-HZ4GTASD.mjs">
-  <link rel="modulepreload" fetchpriority="low"
-    href="https://framerusercontent.com/sites/4UmRyxF27oORnIJjQN6Nje/chunk-42U43NKG.mjs">
-  <link rel="modulepreload" fetchpriority="low"
-    href="https://framerusercontent.com/sites/4UmRyxF27oORnIJjQN6Nje/chunk-HYOMCCQD.mjs">
-  <link rel="modulepreload" fetchpriority="low"
-    href="https://framerusercontent.com/sites/4UmRyxF27oORnIJjQN6Nje/chunk-EWLIBHXX.mjs">
-  <link rel="modulepreload" fetchpriority="low"
-    href="https://framerusercontent.com/sites/4UmRyxF27oORnIJjQN6Nje/chunk-S4NI46BU.mjs">
-  <link rel="modulepreload" fetchpriority="low"
-    href="https://framerusercontent.com/sites/4UmRyxF27oORnIJjQN6Nje/chunk-A2KM466Z.mjs">
-  <link rel="modulepreload" fetchpriority="low"
-    href="https://framerusercontent.com/sites/4UmRyxF27oORnIJjQN6Nje/chunk-CQBBKOAU.mjs">
-  <link rel="modulepreload" fetchpriority="low"
-    href="https://framerusercontent.com/sites/4UmRyxF27oORnIJjQN6Nje/chunk-S2C2RNBU.mjs">
-  <link rel="modulepreload" fetchpriority="low"
-    href="https://framerusercontent.com/sites/4UmRyxF27oORnIJjQN6Nje/chunk-CWSCEJZU.mjs">
-  <link rel="modulepreload" fetchpriority="low"
-    href="https://framerusercontent.com/sites/4UmRyxF27oORnIJjQN6Nje/chunk-3IGLG4U2.mjs">
-  <link rel="modulepreload" fetchpriority="low"
-    href="https://framerusercontent.com/sites/4UmRyxF27oORnIJjQN6Nje/script_main.WAXFRLAC.mjs">
-  <script type="module" async="" data-framer-bundle="main" fetchpriority="low"
-    src="https://framerusercontent.com/sites/4UmRyxF27oORnIJjQN6Nje/script_main.WAXFRLAC.mjs"></script>
-  
+
+
+<script id="acf-intro-data" type="application/json">
+{
+  "email": "<?php echo esc_js(get_field('contact_email') ? get_field('contact_email') : 'chimdi@dducdesign.com'); ?>",
+  "link_url": "<?php echo esc_js(get_field('contact_link_url') ? get_field('contact_link_url') : 'https://calendly.com/chimdi-dducdesign/30min'); ?>",
+  "link_label": "<?php echo esc_js(get_field('contact_link_label') ? get_field('contact_link_label') : 'Book a call'); ?>",
+  "intro_text": "<?php echo esc_js(get_field('intro_card_text') ? get_field('intro_card_text') : 'I convert business visions and customer needs into enjoyable experiences. Welcome to a day in my life.'); ?>",
+  "routine_text": "<?php echo esc_js(get_field('intro_routine_text') ? get_field('intro_routine_text') : 'I like to start my day with my morning routine and some study or learning'); ?>",
+  "breakfast_text": "<?php echo esc_js(get_field('intro_breakfast_text') ? get_field('intro_breakfast_text') : 'Then I have my breakfast which (unapologetically) is usually bread with eggs - the only recipe I\'ve mastered besides cereal.'); ?>"
+}
+</script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    function hydrateACF() {
+        try {
+            var data = JSON.parse(document.getElementById('acf-intro-data').textContent);
+            
+            // 1. Update Intro Card Text
+            var introTexts = document.querySelectorAll('.framer-r6pug2 p');
+            introTexts.forEach(function(el) {
+                if (el) el.textContent = data.intro_text;
+            });
+
+            // 2. Update Intro Card Email
+            var cardEmails = document.querySelectorAll('.framer-k6pidw p');
+            cardEmails.forEach(function(el) {
+                if (el) el.textContent = data.email;
+            });
+
+            // 3. Update Intro Card Link Label & URL
+            var cardLinks = document.querySelectorAll('.framer-1uaq4v2 a');
+            cardLinks.forEach(function(el) {
+                if (el) {
+                    el.href = data.link_url;
+                    el.textContent = data.link_label;
+                }
+            });
+
+            // 4. Update Footer Email
+            var footerEmails = document.querySelectorAll('.framer-184exkr p');
+            footerEmails.forEach(function(el) {
+                if (el) el.textContent = data.email;
+            });
+
+            // 5. Update Footer Link URL
+            var footerLinks = document.querySelectorAll('.framer-77snc6-container a');
+            footerLinks.forEach(function(el) {
+                if (el) el.href = data.link_url;
+            });
+
+            // 6. Update Intro Routine Text
+            var routineTexts = document.querySelectorAll('.framer-1kjdkgq p');
+            routineTexts.forEach(function(el) {
+                if (el) el.textContent = data.routine_text;
+            });
+
+            // 7. Update Intro Breakfast Text
+            var breakfastTexts = document.querySelectorAll('.framer-1bszb53 p');
+            breakfastTexts.forEach(function(el) {
+                if (el) el.textContent = data.breakfast_text;
+            });
+        } catch(e) {
+            console.error("ACF Intro Hydration error: ", e);
+        }
+    }
+    
+    // Run immediately
+    hydrateACF();
+    // Run after a small delay to override any late React rendering
+    setTimeout(hydrateACF, 500);
+});
+</script>
+
+<!-- Writings Posts Data from WordPress -->
+<script id="wp-writings-data" type="application/json">
+<?php
+$writings_args = array(
+    'post_type' => 'post',
+    'posts_per_page' => 20,
+    'post_status' => 'publish',
+    'orderby' => 'date',
+    'order' => 'DESC'
+);
+$writings_posts = new WP_Query($writings_args);
+$posts_data = array();
+if ($writings_posts->have_posts()) :
+    while ($writings_posts->have_posts()) : $writings_posts->the_post();
+        $cats = get_the_category();
+        $thumb_id = get_post_thumbnail_id();
+        $thumb_url = $thumb_id ? wp_get_attachment_image_url($thumb_id, 'medium') : '';
+        $posts_data[] = array(
+            'title' => get_the_title(),
+            'date' => get_the_date('M j, Y'),
+            'permalink' => get_permalink(),
+            'category' => !empty($cats) ? $cats[0]->name : 'Writing',
+            'thumbnail' => $thumb_url
+        );
+    endwhile;
+    wp_reset_postdata();
+endif;
+echo json_encode($posts_data, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
+?>
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    function hydrateWritings() {
+        try {
+            var postsDataEl = document.getElementById('wp-writings-data');
+            if (!postsDataEl) return;
+            var posts = JSON.parse(postsDataEl.textContent);
+            if (!posts || posts.length === 0) return;
+
+            // Find all article links on the page
+            var allLinks = document.querySelectorAll('a[href*="/writings/"]');
+            
+            if (allLinks.length > 0) {
+                // Group links by their original href slug to handle desktop/mobile duplicates
+                var linkGroups = {};
+                var order = [];
+                allLinks.forEach(function(link) {
+                    var href = link.getAttribute('href');
+                    if (!href) return;
+                    var match = href.match(/writings\/([^\/\?#]+)/);
+                    var slug = match ? match[1] : href;
+                    if (!linkGroups[slug]) {
+                        linkGroups[slug] = [];
+                        order.push(slug);
+                    }
+                    linkGroups[slug].push(link);
+                });
+
+                // Update each group with WP post data
+                order.forEach(function(slug, index) {
+                    var post = posts[index];
+                    if (!post) return;
+
+                    var links = linkGroups[slug];
+                    links.forEach(function(link) {
+                        // Update link href
+                        link.href = post.permalink;
+
+                        // Find and update title, date, category texts
+                        var texts = link.querySelectorAll('.framer-text');
+                        texts.forEach(function(el) {
+                            var txt = el.textContent.trim();
+                            // Match title
+                            if (txt === "Year planning template" || 
+                                txt === "An observer's perspective on the race to AGI" || 
+                                txt === "An observer’s perspective on the race to AGI" ||
+                                txt === "User delight is not a gimmick" || 
+                                txt === "Don't forget to be an artist" ||
+                                txt === "Don’t forget to be an artist" ||
+                                el.closest('.framer-104wxzk')) {
+                                el.textContent = post.title;
+                            }
+                            // Match date
+                            else if (txt === "Jan 14, 2025" || 
+                                     txt === "Jan 5, 2025" || 
+                                     txt === "Dec 29, 2024" || 
+                                     txt === "Dec 1, 2024" ||
+                                     txt.match(/^[A-Z][a-z]{2}\s\d{1,2},\s\d{4}$/) ||
+                                     el.closest('.framer-u4kcb7')) {
+                                el.textContent = post.date;
+                            }
+                            // Match category
+                            else if (txt === "Personal" || 
+                                     txt === "Shower thoughts" || 
+                                     txt === "AI" || 
+                                     txt === "Title" ||
+                                     txt === "Writing" ||
+                                     el.closest('.framer-1okbkuw')) {
+                                el.textContent = post.category;
+                            }
+                        });
+
+                        // Update thumbnail image
+                        if (post.thumbnail) {
+                            var img = link.querySelector('img');
+                            if (img) {
+                                img.src = post.thumbnail;
+                                if (img.srcset) img.srcset = '';
+                            }
+                        }
+                    });
+                });
+            }
+
+            // Update CTA link
+            var ctaLinks = document.querySelectorAll('a.framer-gxnxmz, a[data-framer-name="CTA"]');
+            ctaLinks.forEach(function(cta) {
+                cta.href = '<?php echo esc_url(home_url("/writings")); ?>';
+            });
+        } catch(e) {
+            console.error("Writings Hydration error: ", e);
+        }
+    }
+
+    // Run periodically to catch SPA transitions and slow React loads
+    hydrateWritings();
+    setInterval(hydrateWritings, 500);
+});
+</script>
 
 <?php
 get_footer();
+?>
